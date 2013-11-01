@@ -1,0 +1,38 @@
+User Requirements Definiton (functional).
+
+1. Der User kann Konferenzen starten/betreten/verlassen/beenden.
+
+2. Das System wird durch Plugins realisiert.
+2.1 Plugins:= Konferenzen sind unter anderem:
+	- Video-und Sprachkonferenz
+	- shared Whiteboard
+	- Sprachkonferenz
+	- Chat-Konferenz
+	- Document Sharing
+	- etc.
+2.2 Der Besitzer(Registriert) ist automatisch der Moderator seiner Plugins
+	- Der Besitzer(Registriert) kann zusنtzliche Moderatoren(Registriert) ernennen.
+3. Das User-Interface soll einem Desktop (z.B. Windows) نnlich sein,
+	- Jedes Plugin wird durch einen Tab realisiert (dargestellt),
+	- User kِnnen Tabs(Plugins) ِffnen/schlieكen.
+	- User(Registriert) kِnnen Tabs für andere User(Registriert) sichtbar machen(keine Interaktion mِglich),
+	- User(Registriert) kِnnen Tabs für andere User(Registriert) interargier bar machen, allerdings müssen 
+	  diese bereits Sichtzugriff besitzen,
+	- Die Plugins(bzw. Tabs) werden vom Besitzer(User=Registriert) moderiert,
+	- Die Tabs kann jeder User nach bedarf (für sich) Skalieren(betrifft keine anderen Zuschauer).
+	
+4. Der User kann sich auf der Homepage registrieren.
+5. Der User(Registriert) kann (für sich) Gruppen von Usern(Registriert) erstellen/lِschen, User in Gruppen.
+eintragen/entfernen und diese Gruppen zu einer/mehrere Konferenzen einladen.
+6. Ein User kann Administrator, (in Gruppen) Moderator, Teilnehmer(Registriert) und Gast sein.
+7. Der User(Registriert) kann eine Kontaktliste erstellen.
+
+8. Die Plugins (Konferenzen) kِnnen ِffentlich oder privat erstellt werden.
+	ضffentlich:
+		- User kِnnen die Konferenz nach belieben betreten/verlassen,
+		- Die Konferenz kann nur vom Moderator(Registriert) bearbeitet werden,
+		- Der Moderator kann User entfernen.
+	Privat:
+		- Der Moderator(Registriert) lنdt andere User zu seinen Konferenzen ein,
+		- Jeder hat in der Konferenz gleiches Recht,
+		- Die konferenz kann nicht bearbeitet werden.
