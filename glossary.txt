@@ -10,3 +10,5 @@ PLUGIN
 	A plugin is an application provided from the system
 CONFERECE
 	A conference is an instantiation of a plugin
+DATABASE
+	A database is a structured collection of member data.
