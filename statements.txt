@@ -7,7 +7,7 @@ User Requirement 002:
     PRIORITY A
     
 User Requirement 003:
-  STATEMENT The system shall be accessable via browser
+  STATEMENT The system shall be accessable as a website via browser
     PRIORITY A
     
 User Requirement 004:
