@@ -8,7 +8,7 @@ ADMINISTRATOR
 	An administrator is a member with rights to configurate higher settings
 PLUGIN
 	A plugin is an application provided from the system
-CONFERECE
+CONFERENCE
 	A conference is an instantiation of at least one plugin
 DATABASE
 	A database is a structured collection of member data.
