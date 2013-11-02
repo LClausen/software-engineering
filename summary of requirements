@@ -12,9 +12,9 @@ User Requirements Definiton (functional).
 	- etc.
 2.2 Der Besitzer(Registriert) ist automatisch der Moderator seiner Plugins
 	- Der Besitzer(Registriert) kann zusätzliche Moderatoren(Registriert) ernennen.
-3. Das User-Interface soll einem Desktop (z.B. Windows) نnlich sein,
+3. Das User-Interface soll einem Desktop (z.B. Windows) ähnlich sein,
 	- Jedes Plugin wird durch einen Tab realisiert (dargestellt),
-	- User kِnnen Tabs(Plugins) ِffnen/schlieكen.
+	- User kِnnen Tabs(Plugins) ِffnen/schlieكen.//bzw. minimieren
 	- User(Registriert) kِnnen Tabs für andere User(Registriert) sichtbar machen(keine Interaktion mِglich),
 	- User(Registriert) kِnnen Tabs für andere User(Registriert) interargier bar machen, allerdings müssen 
 	  diese bereits Sichtzugriff besitzen,
