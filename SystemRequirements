@@ -1,4 +1,4 @@
-System Requirement 001:
+System Requirement:
   STATEMENT The system shall have user management access which will manage members
     PRIORITY A 
 
@@ -10,4 +10,34 @@ System Requirement 001:
 
   STATEMENT An adminstrator can kick other users from his conference	 
     PRIORITY A 
-    
+
+  STATEMENT Only an adminstrator can install new plugins in a conference
+    PRIORITY A
+  
+  STATEMENT Users will be informed when the conference is being recorded
+    PRIORITY B
+
+  STATEMENT A member can invite users to his conference
+    PRIORITY A
+
+  STATEMENT 
+    PRIORITY A
+  Usablity requirements
+	STATEMENT The system shall be accessible from the at least the three most established browsers: firefox, chrome and IE
+
+          PRIORITY A
+	STATEMENT The system shall be accessible using the native browsers of portable devices (Phones, Tablets etc.)
+          PRIORITY A
+
+  	STATEMENT The layout of a conference will be windows based, where each plugin will have its own window	 
+    	  PRIORITY A 
+  	
+        STATEMENT Each member has a whiteboard for each conference he's currently in, and can share it with users inside the conference
+  	  PRIORITY A 
+        
+        STATEMENT The layout of a conference will be windows based, where each plugin will have its own window	 
+    	  PRIORITY A 
+    	  
+        STATEMENT Users who are not members will have limited access inside of a conference
+          PRIORITY A
+
