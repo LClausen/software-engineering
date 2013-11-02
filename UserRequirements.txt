@@ -25,5 +25,5 @@ User Requirement 006:
     PRIORITY A
 
 User Requirement 007:
-  STATEMENT The conferences shall be recordable or savable
+  STATEMENT The conferences shall be recordable(video,voice) or savable(text,whiteboard)
     PRIORITY A
