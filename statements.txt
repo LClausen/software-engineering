@@ -14,66 +14,66 @@ User Requirement 004:
   STATEMENT The system shall be easy to use
     PRIORITY A
 
-User Requirement 00:
+User Requirement 005:
   STATEMENT The users shall be able to register to the system
     PRIORITY A
 
-User Requirement 00:
+User Requirement 006:
   STATEMENT The members shall be able to open new conferences by using the offered plugins
     PRIORITY A
 
-User Requirement 00:
+User Requirement 007:
   STATEMENT Members shall become moderators of their opened conferences
     PRIORITY A
    
-User Requirement 00:
+User Requirement 008:
   STATEMENT The moderator shall be able to share,close,invite new persons and configurate rights to his conferences
     PRIORITY A
 
-User Requirement 00:
+User Requirement 009:
   STATEMENT Members shall have profiles which will be created by the registration
     PRIORITY B
     
-User Requirement 00:
+User Requirement 010:
   STATEMENT Members shall be able to edit their profile
     PRIORITY B
     
-User Requirement 00:
+User Requirement 011:
   STATEMENT Members shall be able to add other members to their contact list
     PRIORITY B
     
-User Requirement 00:
+User Requirement 012:
   STATEMENT Members shall be able to sort their contacts to self-created groups
     PRIORITY C
     
-User Requirement 00:
+User Requirement 013:
   STATEMENT It shall be easy to add new plugins to the system
     PRIORITY A
     
-User Requirement 00:
+User Requirement 014:
   STATEMENT The database shall be understandable and easy to manipulate or configurate by the administrator
     PRIORITY A
     
-User Requirement 00:
+User Requirement 015:
   STATEMENT 
     PRIORITY 
     
-User Requirement 00:
+User Requirement 016:
   STATEMENT 
     PRIORITY 
     
-User Requirement 00:
+User Requirement 017:
   STATEMENT 
     PRIORITY 
     
-User Requirement 00:
+User Requirement 018:
   STATEMENT 
     PRIORITY 
     
-User Requirement 00:
+User Requirement 019:
   STATEMENT 
     PRIORITY 
     
-User Requirement 00:
+User Requirement 020:
   STATEMENT 
     PRIORITY 
