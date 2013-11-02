@@ -11,7 +11,7 @@ User Requirements Definiton (functional).
 	- Document Sharing
 	- etc.
 2.2 Der Besitzer(Registriert) ist automatisch der Moderator seiner Plugins
-	- Der Besitzer(Registriert) kann zusنtzliche Moderatoren(Registriert) ernennen.
+	- Der Besitzer(Registriert) kann zusätzliche Moderatoren(Registriert) ernennen.
 3. Das User-Interface soll einem Desktop (z.B. Windows) نnlich sein,
 	- Jedes Plugin wird durch einen Tab realisiert (dargestellt),
 	- User kِnnen Tabs(Plugins) ِffnen/schlieكen.
