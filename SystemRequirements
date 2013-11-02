@@ -1,4 +1,13 @@
 System Requirement 001:
-  STATEMENT 
-    PRIORITY A
+  STATEMENT The system shall have user management access which will manage members
+    PRIORITY A 
+
+  STATEMENT the memebr who created the conference is by default a conference adminstrator
+    PRIORITY A 
+
+  STATEMENT an adminstrator can give adminstrator rights to other memebers inside his conference
+    PRIORITY A 
+
+  STATEMENT An adminstrator can kick other users from his conference	 
+    PRIORITY A 
     
