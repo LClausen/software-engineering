@@ -27,3 +27,7 @@ User Requirement 006:
 User Requirement 007:
   STATEMENT The conferences shall be recordable(video,voice) or savable(text,whiteboard)
     PRIORITY A
+
+User Requirement 008:
+  STATEMENT A member shall be able to open public or private conferences
+    PRIORITY A
