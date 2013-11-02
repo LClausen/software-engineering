@@ -7,7 +7,7 @@ User Requirement 002:
     PRIORITY A
     
 User Requirement 003:
-  STATEMENT The users shall be able to connect to the server via browser
+  STATEMENT The system can be used via browser
     PRIORITY A
     
 User Requirement 004:
