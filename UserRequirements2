@@ -1,0 +1,18 @@
+User Requirement 001:
+  STATEMENT The system shall provide plugins to communicate
+    PRIORITY A
+    
+User Requirement 002:
+  STATEMENT The system shall be used in the browser only
+    PRIORITY A
+    
+User Requirement 00:
+  STATEMENT Conferences shall be : Video and Voice Chat, Voice Chat, Text Chat, Shared Whiteboard(s), Document sharing
+    PRIORITY A
+    
+User Requirement 00:
+  STATEMENT The users shall be able to manage Conferences in different ways.
+    PRIORITY 
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
