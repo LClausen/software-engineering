@@ -3,21 +3,29 @@ User Requirement 001:
     PRIORITY A
     
 User Requirement 002:
-  STATEMENT The system shall be used only in the browser
+  STATEMENT The system shall be hosted by a dedicated server
     PRIORITY A
     
 User Requirement 003:
-  STATEMENT There shall be many different conferences
+  STATEMENT The users shall be able to connect to the server via browser
     PRIORITY A
     
 User Requirement 004:
-  STATEMENT The users shall be able to use the system easy and propper
+  STATEMENT The system shall be easy to use
     PRIORITY A
 
 User Requirement 00:
-  STATEMENT 
-    PRIORITY 
+  STATEMENT The users shall be able to register to the system
+    PRIORITY A
 
+User Requirement 00:
+  STATEMENT The members (registered users) shall be able to open new conferences by using the offered plugins
+    PRIORITY A
+
+User Requirement 00:
+  STATEMENT Members shall become moderators of their opened conferences
+    PRIORITY 
+   
 User Requirement 00:
   STATEMENT 
     PRIORITY 
