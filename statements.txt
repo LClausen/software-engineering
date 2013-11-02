@@ -3,6 +3,10 @@ User Requirement 00:
     PRIORITY A
     
 User Requirement 00:
+  STATEMENT The system shall be used only in the browser
+    PRIORITY A
+    
+User Requirement 00:
   STATEMENT Conferences shall be : Video and Voice Chat, Voice Chat, Text Chat, Shared Whiteboard(s), Document sharing
     PRIORITY A
     
