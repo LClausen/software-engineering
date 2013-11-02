@@ -24,11 +24,11 @@ User Requirement 00:
 
 User Requirement 00:
   STATEMENT Members shall become moderators of their opened conferences
-    PRIORITY 
+    PRIORITY A
    
 User Requirement 00:
   STATEMENT The moderator shall be able to share,close,invite new persons and configurate rights to his conferences
-    PRIORITY 
+    PRIORITY A
 
 User Requirement 00:
   STATEMENT Members shall have profiles which will be created by the registration
