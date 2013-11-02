@@ -11,7 +11,7 @@ User Requirement 00:
     PRIORITY A
     
 User Requirement 00:
-  STATEMENT The users
+  STATEMENT The users can use the System
     PRIORITY 
 
 User Requirement 00:
