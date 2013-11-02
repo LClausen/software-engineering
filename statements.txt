@@ -19,7 +19,7 @@ User Requirement 00:
     PRIORITY A
 
 User Requirement 00:
-  STATEMENT The members (registered users) shall be able to open new conferences by using the offered plugins
+  STATEMENT The members shall be able to open new conferences by using the offered plugins
     PRIORITY A
 
 User Requirement 00:
@@ -31,20 +31,20 @@ User Requirement 00:
     PRIORITY 
 
 User Requirement 00:
-  STATEMENT 
-    PRIORITY 
+  STATEMENT Members shall have profiles which will be created by the registration
+    PRIORITY A
     
 User Requirement 00:
-  STATEMENT 
-    PRIORITY 
+  STATEMENT Members shall be able to edit their profile
+    PRIORITY A
     
 User Requirement 00:
-  STATEMENT 
-    PRIORITY 
+  STATEMENT Members shall be able to add other members to their contact list
+    PRIORITY A
     
 User Requirement 00:
-  STATEMENT 
-    PRIORITY 
+  STATEMENT Members shall be able to sort their contacts to self-created groups
+    PRIORITY B
     
 User Requirement 00:
   STATEMENT 
