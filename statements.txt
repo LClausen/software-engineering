@@ -7,12 +7,12 @@ User Requirement 002:
     PRIORITY A
     
 User Requirement 00:
-  STATEMENT Conferences shall be : Video and Voice Chat, Voice Chat, Text Chat, Shared Whiteboard(s), Document sharing
+  STATEMENT There shall be many different conferences
     PRIORITY A
     
 User Requirement 00:
   STATEMENT The users can easy use the System
-    PRIORITY 
+    PRIORITY A
 
 User Requirement 00:
   STATEMENT 
