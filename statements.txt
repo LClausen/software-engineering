@@ -3,6 +3,10 @@ User Requirement 00:
     PRIORITY A
     
 User Requirement 00:
+  STATEMENT Plugins shall be : Video and Voice Chat, Voice Chat, Text Chat, Shared Whiteboard(s), Document sharing
+    PRIORITY A
+    
+User Requirement 00:
   STATEMENT 
     PRIORITY 
 
@@ -11,11 +15,11 @@ User Requirement 00:
     PRIORITY A
 
 User Requirement 00:
-  STATEMENT A user shall be able to register ( = member)
+  STATEMENT A user shall be able to register
     PRIORITY A
 
 User Requirement 00:
-  STATEMENT A member (registered user) shall be able to create a conference
+  STATEMENT A member shall be able to create a conference
     PRIORITY A
 
 User Requirement 00:
