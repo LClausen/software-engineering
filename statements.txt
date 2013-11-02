@@ -47,6 +47,33 @@ User Requirement 00:
     PRIORITY C
     
 User Requirement 00:
+  STATEMENT It shall be easy to add new plugins to the system
+    PRIORITY 
+    
+User Requirement 00:
+  STATEMENT The database shall be understandable and easy to manipulate or configurate by the administrator
+    PRIORITY 
+    
+User Requirement 00:
   STATEMENT 
     PRIORITY 
     
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
+    
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
+    
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
+    
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
+    
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
