@@ -25,7 +25,7 @@ User Requirements Definiton (functional).
 5. Der User(Registriert) kann (für sich) Gruppen von Usern(Registriert) erstellen/lِschen, User in Gruppen.
 eintragen/entfernen und diese Gruppen zu einer/mehrere Konferenzen einladen.
 6. Ein User kann Administrator, (in Gruppen) Moderator, Teilnehmer(Registriert) und Gast sein.
-7. Der User(Registriert) kann eine Kontaktliste erstellen.
+7. Der User(Registriert) kann eine Kontaktliste erstellen. // ggf. Gruppen von Kontakten
 
 8. Die Plugins (Konferenzen) kِnnen ِffentlich oder privat erstellt werden.
 	ضffentlich:
