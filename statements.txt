@@ -1,7 +1,23 @@
-User Requirement 001:
-  STATEMENT A User shall be able to connect to existing conferences
+User Requirement 00:
+  STATEMENT The software shall provide plugins to communicate
+    PRIORITY A
+    
+User Requirement 00:
+  STATEMENT 
+    PRIORITY 
+
+User Requirement 00:
+  STATEMENT A user shall be able to connect to existing plugins
     PRIORITY A
 
-User Requirement 00x:
+User Requirement 00:
+  STATEMENT A user shall be able to register ( = member)
+    PRIORITY A
+
+User Requirement 00:
+  STATEMENT A member (registered user) shall be able to create a conference
+    PRIORITY A
+
+User Requirement 00:
   STATEMENT 
     PRIORITY 
