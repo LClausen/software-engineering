@@ -32,19 +32,19 @@ User Requirement 00:
 
 User Requirement 00:
   STATEMENT Members shall have profiles which will be created by the registration
-    PRIORITY A
+    PRIORITY B
     
 User Requirement 00:
   STATEMENT Members shall be able to edit their profile
-    PRIORITY A
+    PRIORITY B
     
 User Requirement 00:
   STATEMENT Members shall be able to add other members to their contact list
-    PRIORITY A
+    PRIORITY B
     
 User Requirement 00:
   STATEMENT Members shall be able to sort their contacts to self-created groups
-    PRIORITY B
+    PRIORITY C
     
 User Requirement 00:
   STATEMENT 
