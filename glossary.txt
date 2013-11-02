@@ -3,8 +3,10 @@ USER
 MEMBER
 	A member is a user that is registered to the system
 MODERATOR
-	A member automatically becomes a moderator of a new plugin by opening it
+	A member automatically becomes a moderator of a conference by opening it
 ADMINISTRATOR
 	An administrator is a member with rights to configurate higher settings
 PLUGIN
 	A plugin is an application provided from the system
+CONFERECE
+	A conference is an instantiation of a plugin opened by a member
