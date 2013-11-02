@@ -27,7 +27,7 @@ User Requirement 00:
     PRIORITY 
    
 User Requirement 00:
-  STATEMENT Moderator shall be able to share,close,invite new persons and configurate rights to his conferences
+  STATEMENT The moderator shall be able to share,close,invite new persons and configurate rights to his conferences
     PRIORITY 
 
 User Requirement 00:
