@@ -1,8 +1,8 @@
-User Requirement 00:
+User Requirement 001:
   STATEMENT The system shall provide plugins to communicate
     PRIORITY A
     
-User Requirement 00:
+User Requirement 002:
   STATEMENT The system shall be used only in the browser
     PRIORITY A
     
@@ -11,24 +11,8 @@ User Requirement 00:
     PRIORITY A
     
 User Requirement 00:
-  STATEMENT 
+  STATEMENT The users
     PRIORITY 
-
-User Requirement 00:
-  STATEMENT A user shall be able to register
-    PRIORITY A
-
-User Requirement 00:
-  STATEMENT A member shall be able to create a conference
-    PRIORITY A
-
-User Requirement 00:
-  STATEMENT A user shall be able to connect to existing conferences
-    PRIORITY A
-
-User Requirement 00:
-  STATEMENT A member shall be able to invite users to his conference
-    PRIORITY A
 
 User Requirement 00:
   STATEMENT 
