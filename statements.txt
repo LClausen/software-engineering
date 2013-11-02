@@ -11,11 +11,11 @@ User Requirement 003:
     PRIORITY A
     
 User Requirement 004:
-  STATEMENT The users can easy use the System
+  STATEMENT The users shall be able to use the system easy and propper
     PRIORITY A
 
 User Requirement 00:
-  STATEMENT A
+  STATEMENT 
     PRIORITY 
 
 User Requirement 00:
