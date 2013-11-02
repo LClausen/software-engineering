@@ -1,5 +1,5 @@
 User Requirement 00:
-  STATEMENT The software shall provide plugins to communicate
+  STATEMENT The system shall provide plugins to communicate
     PRIORITY A
     
 User Requirement 00:
@@ -21,6 +21,10 @@ User Requirement 00:
 User Requirement 00:
   STATEMENT A user shall be able to connect to existing plugins
     PRIORITY A
+
+User Requirement 00:
+  STATEMENT A member shall be able to invite users to his conference
+    PRIORITY 
 
 User Requirement 00:
   STATEMENT 
