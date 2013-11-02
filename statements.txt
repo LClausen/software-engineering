@@ -1,9 +1,9 @@
 User Requirement 00:
-  STATEMENT The system shall provide plugins to communicate
+  STATEMENT The system shall provide plugins to communicate (conferences)
     PRIORITY A
     
 User Requirement 00:
-  STATEMENT Plugins shall be : Video and Voice Chat, Voice Chat, Text Chat, Shared Whiteboard(s), Document sharing
+  STATEMENT Conferences shall be : Video and Voice Chat, Voice Chat, Text Chat, Shared Whiteboard(s), Document sharing
     PRIORITY A
     
 User Requirement 00:
@@ -19,12 +19,12 @@ User Requirement 00:
     PRIORITY A
 
 User Requirement 00:
-  STATEMENT A user shall be able to connect to existing plugins
+  STATEMENT A user shall be able to connect to existing conferences
     PRIORITY A
 
 User Requirement 00:
   STATEMENT A member shall be able to invite users to his conference
-    PRIORITY 
+    PRIORITY A
 
 User Requirement 00:
   STATEMENT 
