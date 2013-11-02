@@ -7,44 +7,12 @@ User Requirement 002:
     PRIORITY A
     
 User Requirement 003:
-  STATEMENT The system shall be used via browser
+  STATEMENT The system shall be accessable via browser
     PRIORITY A
     
 User Requirement 004:
   STATEMENT The system shall be easy to use
     PRIORITY A
-
-User Requirement 005:
-  STATEMENT The users shall be able to register to the system
-    PRIORITY A
-
-User Requirement 006:
-  STATEMENT The members shall be able to open new conferences by using the offered plugins
-    PRIORITY A
-
-User Requirement 007:
-  STATEMENT Members shall become moderators of their opened conferences
-    PRIORITY A
-   
-User Requirement 008:
-  STATEMENT The moderator shall be able to share,close,invite new persons and configurate rights to his conferences
-    PRIORITY A
-
-User Requirement 009:
-  STATEMENT Members shall have profiles which will be created by the registration
-    PRIORITY B
-    
-User Requirement 010:
-  STATEMENT Members shall be able to edit their profile
-    PRIORITY B
-    
-User Requirement 011:
-  STATEMENT Members shall be able to add other members to their contact list
-    PRIORITY B
-    
-User Requirement 012:
-  STATEMENT Members shall be able to sort their contacts to self-created groups
-    PRIORITY C
     
 User Requirement 013:
   STATEMENT It shall be easy to add new plugins to the system
@@ -77,3 +45,35 @@ User Requirement 019:
 User Requirement 020:
   STATEMENT 
     PRIORITY 
+    
+System Requirement 00:
+  STATEMENT The users shall be able to register to the system
+    PRIORITY A
+
+System Requirement 00:
+  STATEMENT The members shall be able to open new conferences by using the offered plugins
+    PRIORITY A
+
+System Requirement 00:
+  STATEMENT Members shall become moderators of their opened conferences
+    PRIORITY A
+   
+System Requirement 00:
+  STATEMENT The moderator shall be able to share,close,invite new persons and configurate rights to his conferences
+    PRIORITY A
+
+System Requirement 00:
+  STATEMENT Members shall have profiles which will be created by the registration
+    PRIORITY B
+    
+System Requirement 00:
+  STATEMENT Members shall be able to edit their profile
+    PRIORITY B
+    
+System Requirement 00:
+  STATEMENT Members shall be able to add other members to their contact list
+    PRIORITY B
+    
+System Requirement 00:
+  STATEMENT Members shall be able to sort their contacts to self-created groups
+    PRIORITY C
