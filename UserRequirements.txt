@@ -18,8 +18,12 @@ User Requirement 005:
   STATEMENT The system shall be extendable
     PRIORITY A
 
-User Requirement 005:
+User Requirement 006:
   STATEMENT The system shall allow users to take part in web conferences, where
             they will be able to exchange information using video, voice, text based
             chat, whiteboard and screensharing.
+    PRIORITY A
+
+User Requirement 007:
+  STATEMENT The conferences shall be recordable or savable
     PRIORITY A
