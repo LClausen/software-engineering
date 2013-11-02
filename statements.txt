@@ -1,5 +1,5 @@
 User Requirement 00:
-  STATEMENT The system shall provide plugins to communicate (conferences)
+  STATEMENT The system shall provide plugins to communicate
     PRIORITY A
     
 User Requirement 00:
