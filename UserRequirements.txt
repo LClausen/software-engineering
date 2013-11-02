@@ -1,3 +1,19 @@
 User Requirement 001:
   STATEMENT The system shall provide plugins to communicate
     PRIORITY A
+
+User Requirement 002:
+  STATEMENT The system shall be hosted by a dedicated server
+    PRIORITY A
+    
+User Requirement 003:
+  STATEMENT The system shall be accessable as a website via browser
+    PRIORITY A
+    
+User Requirement 004:
+  STATEMENT The system shall be easy to use
+    PRIORITY A
+    
+User Requirement 005:
+  STATEMENT The system shall be extendable
+    PRIORITY A
