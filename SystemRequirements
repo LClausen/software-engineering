@@ -1,43 +1,103 @@
 System Requirement:
-  STATEMENT The system shall have user management access which will manage members
+  STATEMENT The system shall have user management access which will manage members and their access rights --security
     PRIORITY A 
 
-  STATEMENT the memebr who created the conference is by default a conference adminstrator
+  STATEMENT the member who created the conference is by default the moderator of this conference  --functional
     PRIORITY A 
 
-  STATEMENT an adminstrator can give adminstrator rights to other memebers inside his conference
+  STATEMENT a moderator can give moderator rights to other members inside his conference, those members are then called sub-moderators.
+            a moderator can also remove rights from sub-moderators --functional
+    PRIORITY A 
+  
+  STATEMENT there can only be one moderator per conference, who can't be kicked by any other sub-moderator  --security
+   PRIORITY A
+  
+  STATEMENT A moderator can kick other users from his conference  --functional	 
     PRIORITY A 
 
-  STATEMENT An adminstrator can kick other users from his conference	 
-    PRIORITY A 
-
-  STATEMENT Only an adminstrator can install new plugins in a conference
+  STATEMENT Only a moderator can add new plugins to his conference(s)  --functional
     PRIORITY A
   
-  STATEMENT Users will be informed when the conference is being recorded
+  STATEMENT Users will be informed when the conference is being recorded --security
     PRIORITY B
 
-  STATEMENT A member can invite users to his conference
+  STATEMENT A member can invite users to his conference  --functional
     PRIORITY A
 
-  STATEMENT 
+  STATEMENT A members can be invited directly via the system. Users can be invited via email, where they'll receive a link to the conference.  --functional
     PRIORITY A
+
+  STATEMENT The system shall not have any downtimes longer than 1 hour per week  --dependability
+    PRIORITY A
+  
+  STATEMENT the system shall be able to detect obscene language  --ethical
+    PRIORITY B
+  
+  STATEMENT there shall be a pre-defined template for plugins that can be added to the system  --development
+
   Usablity requirements
-	STATEMENT The system shall be accessible from the at least the three most established browsers: firefox, chrome and IE
-
+	STATEMENT The system shall be accessible from the at least the most established browsers: firefox, chrome, Safari, Webkit and IE
           PRIORITY A
+
 	STATEMENT The system shall be accessible using the native browsers of portable devices (Phones, Tablets etc.)
           PRIORITY A
 
   	STATEMENT The layout of a conference will be windows based, where each plugin will have its own window	 
     	  PRIORITY A 
   	
-        STATEMENT Each member has a whiteboard for each conference he's currently in, and can share it with users inside the conference
+        (STATEMENT Each member has a whiteboard, and can share it with users inside the conference he's in)
   	  PRIORITY A 
-        
-        STATEMENT The layout of a conference will be windows based, where each plugin will have its own window	 
-    	  PRIORITY A 
-    	  
-        STATEMENT Users who are not members will have limited access inside of a conference
+          
+        STATEMENT Users who are not members will have limited access inside of a conference. They're not allowed to open up own instances of plugins
           PRIORITY A
 
+        STATEMENT it shall take maximally an hour to learn how conferences operate inside the system
+          PRIORITY A
+
+        STATEMENT The system shall provide a quick introduction (tutorial) for newly registered members
+          PRIORITY B
+
+        STATEMENT The system adminstrator shall not need to have any special knowldge concerning computer technology
+          PRIORITY A
+
+        STATEMENT an adminstrator of the system shall set limits for members, like how many conferences they're allowed to participate in simultaniously
+          PRIORITY A
+
+        STATEMENT All plugins shall have as little latency as possible
+          PRIORITY A
+       
+        STATEMENT audio and video quality shown on each user's device shall be modifiable by that user
+          PRIORITY B
+       
+        STATEMENT plugins shall be minimizable
+          PRIORITY A
+
+        STATEMENT There shall be no predefined resolution for conference's GUI
+          PRIORITY A
+
+        STATEMENT The windows representing the plugins in a conference shall be scalable and movable
+          PRIORITY A
+
+        STATEMENT All system data are to be saved in a databank stored on the server
+          PRIORITY A
+
+        STATEMENT each user in a conference has the choice to share or not share his video, audio and whiteboard
+          PRIORITY A
+
+        STATEMENT users can choose to block other users
+          PRIORITY B
+
+        STATEMENT users shall be able to share files inside of a conference. The files will be saved on the server.
+          PRIORITY A
+
+        STATEMENT each user shall specify which users are allowed to see the filed he shared in a conference
+          PRIORITY A
+
+        STATEMENT files uploaded to the server shall be unique. No two files uploaded shall have the same content.
+          PRIORITY A
+
+        STATEMENT each conference shall not take space on the server larger than that specified by a system adminstrator
+          PRIORITY A
+
+       STATEMENT there shall be no information stored locally on user systems. Everything shall be stored on the server.
+          PRIORITY A
