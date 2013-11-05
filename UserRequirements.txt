@@ -1,5 +1,6 @@
 User Requirement 001:
   STATEMENT The system shall provide plugins to communicate
+            Thus plugin shall be at least: voice-and video-,chat-,whiteboard-conference,file- and screen-sharing
     PRIORITY A
 
 User Requirement 002:
@@ -19,9 +20,8 @@ User Requirement 005:
     PRIORITY A
 
 User Requirement 006:
-  STATEMENT The system shall allow users to take part in web conferences, where
-            they will be able to exchange information using video, voice, text based
-            chat, whiteboard and screensharing.
+  STATEMENT The system shall also allow unregistered users to take part in conferences as guests,
+            if they were invited by a member.
     PRIORITY A
 
 User Requirement 007:
@@ -30,4 +30,12 @@ User Requirement 007:
 
 User Requirement 008:
   STATEMENT A member shall be able to open public or private conferences
+    PRIORITY B
+    
+User Requirement 009:
+  STATEMENT The system shall be accessible to a high amount of users
+    PRIORITY A
+    
+User Requirement 010:
+  STATEMENT 
     PRIORITY A
