@@ -1,0 +1,3 @@
+Leglislative requirement 001:
+  STATEMENT storing data of members shall be conform to german data legislations
+    PRIORITY A
