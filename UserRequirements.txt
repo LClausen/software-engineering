@@ -49,29 +49,30 @@ User Requirement 010:
     PRIORITY A
     
 User Requirement 010:
-  STATEMENT 
-    PRIORITY
+  STATEMENT Members shall be able to open and use several plugins simultaneously
+    PRIORITY A
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT The system's interface shall be windows-based
+    PRIORITY A
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT Members shall be able to minimize and scale the plugin-windows
+    PRIORITY A
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT Members shall automatically become Moderators of their self-opened conferences
+    PRIORITY A
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
-    
+  STATEMENT Moderators shall be able to give moderator rights to other members in his conference.
+            Members with moderator rights, that are not the moderator itself shall be called sub-moderators
+    PRIORITY B
+
 User Requirement 010:
-  STATEMENT
-    PRIORITY
-    
+  STATEMENT Moderators (and sub-moderators) shall be able to invite users to their conference
+    PRIORITY A/B
+
 User Requirement 010:
   STATEMENT
     PRIORITY
