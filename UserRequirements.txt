@@ -6,10 +6,6 @@ User Requirement 002:
   STATEMENT Member shall solve a short tutorial right after registration
     PRIORITY C
 
-User Requirement 003:
-  STATEMENT Members shall be able to use the plugins offered by the system
-    PRIORITY A
-
 User Requirement 004:
   STATEMENT Members shall have social profiles
     PRIORITY B
@@ -35,12 +31,25 @@ User Requirement 009:
             Thus users shall not be able to request a conferences with that member.
     PRIORITY C
 
-User Requirement 009:
+User Requirement 010:
   STATEMENT Members shall be able to unblock blocked users
     PRIORITY C
 
+User Requirement 003:
+  STATEMENT Members shall be able to use the plugins offered by the system
+    PRIORITY A
+
 User Requirement 010:
-  STATEMENT
+  STATEMENT The offered plugins shall be at least: voice- and video-, 
+            chat-, whiteboard-conference, document- and screen-sharing
+    PRIORITY A
+    
+User Requirement 010:
+  STATEMENT The system shall be extendable with new plugins
+    PRIORITY A
+    
+User Requirement 010:
+  STATEMENT 
     PRIORITY
     
 User Requirement 010:
@@ -92,20 +101,12 @@ User Requirement 010:
     PRIORITY
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT No data shall be stored on local devices
+    PRIORITY A
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
-    
-User Requirement 010:
-  STATEMENT
-    PRIORITY
-    
-User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT The system shall be as efficient as possible
+    PRIORITY A
     
 //
 User Requirement 001:
