@@ -1,13 +1,29 @@
 Scenario 01
 
 INITIAL ASSUMPTION
+Member1 wants to start a voice-and-video-call to Member2 on his contact-list.
+
 NORMAL
+He sends a request to the other user. The other User accepts the request. The System builds a P2P
+connection between those Users. Data is exchanged via that connection. A video-chat-window opens 
+on both Members platforms.
+
+
 WHAT CAN GO WRONG
+The request is not sent/not received
+  Give feedback to Member1 (such as timeout)
+  
+The Member1 is blocked by Member2.
+  Give feedback to Member1 ("Member2 blocked you")
+  
+
+
+
 OTHER ACTIVITIES
 SYSTEM STATE ON COMPLETION
 
 
-1: Phone-call between two Users
+1: Phone-call between two Members
 2: Chat between two Users
 3: Gruop conference + chat + whiteboard
 4: Hold a lecture (open gruop chat, only one person talking on video)
