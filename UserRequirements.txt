@@ -23,19 +23,86 @@ User Requirement 006:
     PRIORITY C
 
 User Requirement 007:
-  STATEMENT 
-    PRIORITY A
+  STATEMENT Members shall be able to search for other members to visit their profile and add them to their contact list
+    PRIORITY B
 
 User Requirement 008:
-  STATEMENT 
-    PRIORITY A
+  STATEMENT Members shall be able to block other users.
+            Thus users shall not be able to request a conferences with that member.
+    PRIORITY C
 
 User Requirement 009:
-  STATEMENT 
-    PRIORITY A
+  STATEMENT Members shall be able to unblock blocked users
+    PRIORITY C
 
-
-
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
+User Requirement 010:
+  STATEMENT
+    PRIORITY
+    
 //
 User Requirement 001:
   STATEMENT The system shall provide plugins to communicate
