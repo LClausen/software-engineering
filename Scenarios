@@ -5,22 +5,28 @@ Member1 wants to start a voice-and-video-call to Member2 on his contact-list.
 
 NORMAL
 He sends a request to the other user. The other User accepts the request. The System builds a P2P
-connection between those Users. Data is exchanged via that connection. A video-chat-window opens 
+connection between those Users. Data is exchanged via that connection. A video-chat-window and tab opens 
 on both Members platforms.
 
 
 WHAT CAN GO WRONG
+
+//too many tabs opened??//
+
 The request is not sent/not received
   Give feedback to Member1 (such as timeout)
   
 The Member1 is blocked by Member2.
   Give feedback to Member1 ("Member2 blocked you")
   
-
-
+The connection collapses
+  Give feedback to Member1 and Member2 (connection timeout)
 
 OTHER ACTIVITIES
+There may not be more than one video-call to a single Member at the same time. 
+
 SYSTEM STATE ON COMPLETION
+The data-stream is stopped. The video-chat-windows and tabs close on both Members platforms. The connection is cut (cancelled).
 
 
 1: Phone-call between two Members
