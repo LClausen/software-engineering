@@ -3,7 +3,7 @@ User Requirement 001:
     PRIORITY A
 
 User Requirement 002:
-  STATEMENT The system shall be hosted by a dedicated server
+  STATEMENT The system shall be hosted on a dedicated server
     PRIORITY A
     
 User Requirement 003:
