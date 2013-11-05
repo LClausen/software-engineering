@@ -180,3 +180,11 @@ User Requirement 041:
 User Requirement 042:
   STATEMENT The system shall be protected against attacks
     PRIORITY A
+    
+User Requirement 043:
+  STATEMENT The system shall be conform with the german rights
+    PRIORITY A
+    
+User Requirement 044:
+  STATEMENT The system shall be conform with the GI-concepts of data storage
+    PRIORITY B
