@@ -67,6 +67,7 @@ User Requirement 010:
 User Requirement 010:
   STATEMENT Moderators shall be able to give moderator rights to other members in his conference.
             Members with moderator rights, that are not the moderator itself shall be called sub-moderators
+            The moderator shall also be able to remove those rights from sub-moderators
     PRIORITY B
 
 User Requirement 010:
@@ -74,11 +75,13 @@ User Requirement 010:
     PRIORITY A/B
 
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT Moderators (and sub-moderators) shall be able to remove other users from the conference.
+            Sub-moderators shall not be able to remove other (sub-)moderators.
+            Only the moderator shall be able to remove sub-moderators.
+    PRIORITY A/B
     
 User Requirement 010:
-  STATEMENT
+  STATEMENT 
     PRIORITY
     
 User Requirement 010:
