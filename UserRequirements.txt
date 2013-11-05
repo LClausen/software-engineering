@@ -131,7 +131,9 @@ User Requirement 031:
     PRIORITY A
     
 User Requirement 032:
-  STATEMENT The conferences shall be recordable(video,voice) or savable(text,whiteboard)
+  STATEMENT The conferences shall be recordable(video,voice,whiteboard) or savable(chat-log,text-document,whiteboard)
+            All records, saved on the server, shall be accessable by the (registered) conference participants.
+            All records, saved on the server, shall be downloadable.
     PRIORITY A
     
 User Requirement 033:
