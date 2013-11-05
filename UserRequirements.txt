@@ -181,4 +181,4 @@ User Requirement 042:
     
 User Requirement 043:
   STATEMENT LOL WE HAVE 42 USER REQUIREMENTS ! :D
-    PRIORITY A
+    PRIORITY Sense of Life
