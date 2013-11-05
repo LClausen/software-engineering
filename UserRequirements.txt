@@ -180,7 +180,3 @@ User Requirement 041:
 User Requirement 042:
   STATEMENT The system shall be protected against attacks
     PRIORITY A
-    
-User Requirement 043:
-  STATEMENT LOL WE HAVE 42 USER REQUIREMENTS ! :D
-    PRIORITY Sense of Life, Universe and everything!!
