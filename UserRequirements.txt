@@ -81,16 +81,16 @@ User Requirement 010:
     PRIORITY A/B
     
 User Requirement 010:
-  STATEMENT 
-    PRIORITY
+  STATEMENT In a voice- and video-conference a user shall be able to turn on/off his soundinput, -output and videoinput
+    PRIORITY B
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT In a voice- and video-conference a user shall be able to configure the sound and video quality
+    PRIORITY C
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT In a chat-conference a user shall be able to turn on an obszene language filter 
+    PRIORITY B
     
 User Requirement 010:
   STATEMENT
