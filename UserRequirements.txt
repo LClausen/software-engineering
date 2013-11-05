@@ -1,6 +1,6 @@
 User Requirement 001:
   STATEMENT The system shall provide plugins to communicate
-            Thus plugin shall be at least: voice-and video-,chat-,whiteboard-conference,file- and screen-sharing
+            Thus plugin shall be at least: voice-and video-,chat-,whiteboard-conference,document- and screen-sharing
     PRIORITY A
 
 User Requirement 002:
