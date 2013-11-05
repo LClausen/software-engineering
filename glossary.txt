@@ -2,6 +2,8 @@ USER
 	A user is a person who uses with the system
 MEMBER
 	A member is a user that is registered to the system
+GUEST
+	A user who is not a member
 MODERATOR
 	A moderator is a member with rights to share,close and invite new persons to an existing conference
 ADMINISTRATOR
