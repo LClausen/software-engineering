@@ -1,75 +1,77 @@
-\BOOKMARK [-1][-]{part.1}{I User Requirements}{}% 1
-\BOOKMARK [0][-]{paragraph.0.0.0.0.1}{UR001}{part.1}% 2
-\BOOKMARK [1][-]{paragraph.0.0.0.0.2}{UR002}{paragraph.0.0.0.0.1}% 3
-\BOOKMARK [2][-]{paragraph.0.0.0.0.3}{UR003}{paragraph.0.0.0.0.2}% 4
-\BOOKMARK [3][-]{paragraph.0.0.0.0.4}{UR004}{paragraph.0.0.0.0.3}% 5
-\BOOKMARK [4][-]{paragraph.0.0.0.0.5}{UR005}{paragraph.0.0.0.0.4}% 6
-\BOOKMARK [4][-]{paragraph.0.0.0.0.6}{UR006}{paragraph.0.0.0.0.4}% 7
-\BOOKMARK [4][-]{paragraph.0.0.0.0.7}{UR007}{paragraph.0.0.0.0.4}% 8
-\BOOKMARK [4][-]{paragraph.0.0.0.0.8}{UR008}{paragraph.0.0.0.0.4}% 9
-\BOOKMARK [4][-]{paragraph.0.0.0.0.9}{UR009}{paragraph.0.0.0.0.4}% 10
-\BOOKMARK [4][-]{paragraph.0.0.0.0.10}{UR010}{paragraph.0.0.0.0.4}% 11
-\BOOKMARK [4][-]{paragraph.0.0.0.0.11}{UR011}{paragraph.0.0.0.0.4}% 12
-\BOOKMARK [4][-]{paragraph.0.0.0.0.12}{UR012}{paragraph.0.0.0.0.4}% 13
-\BOOKMARK [4][-]{paragraph.0.0.0.0.13}{UR013}{paragraph.0.0.0.0.4}% 14
-\BOOKMARK [4][-]{paragraph.0.0.0.0.14}{UR014}{paragraph.0.0.0.0.4}% 15
-\BOOKMARK [4][-]{paragraph.0.0.0.0.15}{UR015}{paragraph.0.0.0.0.4}% 16
-\BOOKMARK [4][-]{paragraph.0.0.0.0.16}{UR016}{paragraph.0.0.0.0.4}% 17
-\BOOKMARK [4][-]{paragraph.0.0.0.0.17}{UR017}{paragraph.0.0.0.0.4}% 18
-\BOOKMARK [4][-]{paragraph.0.0.0.0.18}{UR018}{paragraph.0.0.0.0.4}% 19
-\BOOKMARK [4][-]{paragraph.0.0.0.0.19}{UR019}{paragraph.0.0.0.0.4}% 20
-\BOOKMARK [4][-]{paragraph.0.0.0.0.20}{UR020}{paragraph.0.0.0.0.4}% 21
-\BOOKMARK [4][-]{paragraph.0.0.0.0.21}{UR021}{paragraph.0.0.0.0.4}% 22
-\BOOKMARK [4][-]{paragraph.0.0.0.0.22}{UR022}{paragraph.0.0.0.0.4}% 23
-\BOOKMARK [4][-]{paragraph.0.0.0.0.23}{UR023}{paragraph.0.0.0.0.4}% 24
-\BOOKMARK [4][-]{paragraph.0.0.0.0.24}{UR024}{paragraph.0.0.0.0.4}% 25
-\BOOKMARK [4][-]{paragraph.0.0.0.0.25}{UR025}{paragraph.0.0.0.0.4}% 26
-\BOOKMARK [4][-]{paragraph.0.0.0.0.26}{UR026}{paragraph.0.0.0.0.4}% 27
-\BOOKMARK [4][-]{paragraph.0.0.0.0.27}{UR027}{paragraph.0.0.0.0.4}% 28
-\BOOKMARK [4][-]{paragraph.0.0.0.0.28}{UR028}{paragraph.0.0.0.0.4}% 29
-\BOOKMARK [4][-]{paragraph.0.0.0.0.29}{UR029}{paragraph.0.0.0.0.4}% 30
-\BOOKMARK [4][-]{paragraph.0.0.0.0.30}{UR030}{paragraph.0.0.0.0.4}% 31
-\BOOKMARK [4][-]{paragraph.0.0.0.0.31}{UR031}{paragraph.0.0.0.0.4}% 32
-\BOOKMARK [4][-]{paragraph.0.0.0.0.32}{UR032}{paragraph.0.0.0.0.4}% 33
-\BOOKMARK [4][-]{paragraph.0.0.0.0.33}{UR033}{paragraph.0.0.0.0.4}% 34
-\BOOKMARK [4][-]{paragraph.0.0.0.0.34}{UR034}{paragraph.0.0.0.0.4}% 35
-\BOOKMARK [4][-]{paragraph.0.0.0.0.35}{UR035}{paragraph.0.0.0.0.4}% 36
-\BOOKMARK [4][-]{paragraph.0.0.0.0.36}{UR036}{paragraph.0.0.0.0.4}% 37
-\BOOKMARK [4][-]{paragraph.0.0.0.0.37}{UR037}{paragraph.0.0.0.0.4}% 38
-\BOOKMARK [4][-]{paragraph.0.0.0.0.38}{UR038}{paragraph.0.0.0.0.4}% 39
-\BOOKMARK [4][-]{paragraph.0.0.0.0.39}{UR039}{paragraph.0.0.0.0.4}% 40
-\BOOKMARK [4][-]{paragraph.0.0.0.0.40}{UR040}{paragraph.0.0.0.0.4}% 41
-\BOOKMARK [4][-]{paragraph.0.0.0.0.41}{UR041}{paragraph.0.0.0.0.4}% 42
-\BOOKMARK [4][-]{paragraph.0.0.0.0.42}{UR042}{paragraph.0.0.0.0.4}% 43
-\BOOKMARK [4][-]{paragraph.0.0.0.0.43}{UR043}{paragraph.0.0.0.0.4}% 44
-\BOOKMARK [4][-]{paragraph.0.0.0.0.44}{UR044}{paragraph.0.0.0.0.4}% 45
-\BOOKMARK [-1][-]{part.2}{II System Requirements}{}% 46
-\BOOKMARK [0][-]{chapter.1}{Non-Functional Requirements}{part.2}% 47
-\BOOKMARK [1][-]{section.1.1}{Product Requirements}{chapter.1}% 48
-\BOOKMARK [2][-]{subsection.1.1.1}{Usability Requirements}{section.1.1}% 49
-\BOOKMARK [2][-]{subsection.1.1.2}{Efficiency Requirements}{section.1.1}% 50
-\BOOKMARK [3][-]{subsubsection.1.1.2.1}{Performance Requirements}{subsection.1.1.2}% 51
-\BOOKMARK [3][-]{subsubsection.1.1.2.2}{Space Requirements}{subsection.1.1.2}% 52
-\BOOKMARK [2][-]{subsection.1.1.3}{Dependability Requirements}{section.1.1}% 53
-\BOOKMARK [3][-]{paragraph.1.1.3.0.1}{NFR001}{subsection.1.1.3}% 54
-\BOOKMARK [2][-]{subsection.1.1.4}{Security Requirements}{section.1.1}% 55
-\BOOKMARK [1][-]{section.1.2}{Organziational Requirements}{chapter.1}% 56
-\BOOKMARK [2][-]{subsection.1.2.1}{Environmental Requirements}{section.1.2}% 57
-\BOOKMARK [3][-]{paragraph.1.2.1.0.2}{NFR002}{subsection.1.2.1}% 58
-\BOOKMARK [2][-]{subsection.1.2.2}{Operational Requirements}{section.1.2}% 59
-\BOOKMARK [2][-]{subsection.1.2.3}{Development Requirements}{section.1.2}% 60
-\BOOKMARK [1][-]{section.1.3}{External Requirements}{chapter.1}% 61
-\BOOKMARK [2][-]{subsection.1.3.1}{Regulatory Requirements}{section.1.3}% 62
-\BOOKMARK [2][-]{subsection.1.3.2}{Ethical Requirements}{section.1.3}% 63
-\BOOKMARK [2][-]{subsection.1.3.3}{Legislative Requirements}{section.1.3}% 64
-\BOOKMARK [3][-]{subsubsection.1.3.3.1}{Accounting Requirements}{subsection.1.3.3}% 65
-\BOOKMARK [3][-]{subsubsection.1.3.3.2}{Safety / Security Requirements}{subsection.1.3.3}% 66
-\BOOKMARK [4][-]{paragraph.1.3.3.2.1}{NFR003}{subsubsection.1.3.3.2}% 67
-\BOOKMARK [0][-]{chapter.2}{Functional Requirements}{part.2}% 68
-\BOOKMARK [1][-]{paragraph.2.0.3.2.2}{FR001}{chapter.2}% 69
-\BOOKMARK [2][-]{paragraph.2.0.3.2.3}{FR002}{paragraph.2.0.3.2.2}% 70
-\BOOKMARK [3][-]{paragraph.2.0.3.2.4}{FR003}{paragraph.2.0.3.2.3}% 71
-\BOOKMARK [4][-]{paragraph.2.0.3.2.5}{FR004}{paragraph.2.0.3.2.4}% 72
-\BOOKMARK [4][-]{paragraph.2.0.3.2.6}{FR005}{paragraph.2.0.3.2.4}% 73
-\BOOKMARK [0][-]{chapter.3}{Scenarios}{part.2}% 74
-\BOOKMARK [1][-]{section.3.1}{Scenario for collecting medical history}{chapter.3}% 75
+\BOOKMARK [0][-]{section*.1}{Glossary}{}% 1
+\BOOKMARK [-1][-]{part.1}{I User Requirements}{}% 2
+\BOOKMARK [0][-]{paragraph.0.0.0.0.1}{UR001}{part.1}% 3
+\BOOKMARK [1][-]{paragraph.0.0.0.0.2}{UR002}{paragraph.0.0.0.0.1}% 4
+\BOOKMARK [2][-]{paragraph.0.0.0.0.3}{UR003}{paragraph.0.0.0.0.2}% 5
+\BOOKMARK [3][-]{paragraph.0.0.0.0.4}{UR004}{paragraph.0.0.0.0.3}% 6
+\BOOKMARK [4][-]{paragraph.0.0.0.0.5}{UR005}{paragraph.0.0.0.0.4}% 7
+\BOOKMARK [4][-]{paragraph.0.0.0.0.6}{UR006}{paragraph.0.0.0.0.4}% 8
+\BOOKMARK [4][-]{paragraph.0.0.0.0.7}{UR007}{paragraph.0.0.0.0.4}% 9
+\BOOKMARK [4][-]{paragraph.0.0.0.0.8}{UR008}{paragraph.0.0.0.0.4}% 10
+\BOOKMARK [4][-]{paragraph.0.0.0.0.9}{UR009}{paragraph.0.0.0.0.4}% 11
+\BOOKMARK [4][-]{paragraph.0.0.0.0.10}{UR010}{paragraph.0.0.0.0.4}% 12
+\BOOKMARK [4][-]{paragraph.0.0.0.0.11}{UR011}{paragraph.0.0.0.0.4}% 13
+\BOOKMARK [4][-]{paragraph.0.0.0.0.12}{UR012}{paragraph.0.0.0.0.4}% 14
+\BOOKMARK [4][-]{paragraph.0.0.0.0.13}{UR013}{paragraph.0.0.0.0.4}% 15
+\BOOKMARK [4][-]{paragraph.0.0.0.0.14}{UR014}{paragraph.0.0.0.0.4}% 16
+\BOOKMARK [4][-]{paragraph.0.0.0.0.15}{UR015}{paragraph.0.0.0.0.4}% 17
+\BOOKMARK [4][-]{paragraph.0.0.0.0.16}{UR016}{paragraph.0.0.0.0.4}% 18
+\BOOKMARK [4][-]{paragraph.0.0.0.0.17}{UR017}{paragraph.0.0.0.0.4}% 19
+\BOOKMARK [4][-]{paragraph.0.0.0.0.18}{UR018}{paragraph.0.0.0.0.4}% 20
+\BOOKMARK [4][-]{paragraph.0.0.0.0.19}{UR019}{paragraph.0.0.0.0.4}% 21
+\BOOKMARK [4][-]{paragraph.0.0.0.0.20}{UR020}{paragraph.0.0.0.0.4}% 22
+\BOOKMARK [4][-]{paragraph.0.0.0.0.21}{UR021}{paragraph.0.0.0.0.4}% 23
+\BOOKMARK [4][-]{paragraph.0.0.0.0.22}{UR022}{paragraph.0.0.0.0.4}% 24
+\BOOKMARK [4][-]{paragraph.0.0.0.0.23}{UR023}{paragraph.0.0.0.0.4}% 25
+\BOOKMARK [4][-]{paragraph.0.0.0.0.24}{UR024}{paragraph.0.0.0.0.4}% 26
+\BOOKMARK [4][-]{paragraph.0.0.0.0.25}{UR025}{paragraph.0.0.0.0.4}% 27
+\BOOKMARK [4][-]{paragraph.0.0.0.0.26}{UR026}{paragraph.0.0.0.0.4}% 28
+\BOOKMARK [4][-]{paragraph.0.0.0.0.27}{UR027}{paragraph.0.0.0.0.4}% 29
+\BOOKMARK [4][-]{paragraph.0.0.0.0.28}{UR028}{paragraph.0.0.0.0.4}% 30
+\BOOKMARK [4][-]{paragraph.0.0.0.0.29}{UR029}{paragraph.0.0.0.0.4}% 31
+\BOOKMARK [4][-]{paragraph.0.0.0.0.30}{UR030}{paragraph.0.0.0.0.4}% 32
+\BOOKMARK [4][-]{paragraph.0.0.0.0.31}{UR031}{paragraph.0.0.0.0.4}% 33
+\BOOKMARK [4][-]{paragraph.0.0.0.0.32}{UR032}{paragraph.0.0.0.0.4}% 34
+\BOOKMARK [4][-]{paragraph.0.0.0.0.33}{UR033}{paragraph.0.0.0.0.4}% 35
+\BOOKMARK [4][-]{paragraph.0.0.0.0.34}{UR034}{paragraph.0.0.0.0.4}% 36
+\BOOKMARK [4][-]{paragraph.0.0.0.0.35}{UR035}{paragraph.0.0.0.0.4}% 37
+\BOOKMARK [4][-]{paragraph.0.0.0.0.36}{UR036}{paragraph.0.0.0.0.4}% 38
+\BOOKMARK [4][-]{paragraph.0.0.0.0.37}{UR037}{paragraph.0.0.0.0.4}% 39
+\BOOKMARK [4][-]{paragraph.0.0.0.0.38}{UR038}{paragraph.0.0.0.0.4}% 40
+\BOOKMARK [4][-]{paragraph.0.0.0.0.39}{UR039}{paragraph.0.0.0.0.4}% 41
+\BOOKMARK [4][-]{paragraph.0.0.0.0.40}{UR040}{paragraph.0.0.0.0.4}% 42
+\BOOKMARK [4][-]{paragraph.0.0.0.0.41}{UR041}{paragraph.0.0.0.0.4}% 43
+\BOOKMARK [4][-]{paragraph.0.0.0.0.42}{UR042}{paragraph.0.0.0.0.4}% 44
+\BOOKMARK [4][-]{paragraph.0.0.0.0.43}{UR043}{paragraph.0.0.0.0.4}% 45
+\BOOKMARK [4][-]{paragraph.0.0.0.0.44}{UR044}{paragraph.0.0.0.0.4}% 46
+\BOOKMARK [-1][-]{part.2}{II System Requirements}{}% 47
+\BOOKMARK [0][-]{chapter.1}{Non-Functional Requirements}{part.2}% 48
+\BOOKMARK [1][-]{section.1.1}{Product Requirements}{chapter.1}% 49
+\BOOKMARK [2][-]{subsection.1.1.1}{Usability Requirements}{section.1.1}% 50
+\BOOKMARK [2][-]{subsection.1.1.2}{Efficiency Requirements}{section.1.1}% 51
+\BOOKMARK [3][-]{subsubsection.1.1.2.1}{Performance Requirements}{subsection.1.1.2}% 52
+\BOOKMARK [3][-]{subsubsection.1.1.2.2}{Space Requirements}{subsection.1.1.2}% 53
+\BOOKMARK [2][-]{subsection.1.1.3}{Dependability Requirements}{section.1.1}% 54
+\BOOKMARK [3][-]{paragraph.1.1.3.0.1}{NFR001}{subsection.1.1.3}% 55
+\BOOKMARK [2][-]{subsection.1.1.4}{Security Requirements}{section.1.1}% 56
+\BOOKMARK [1][-]{section.1.2}{Organziational Requirements}{chapter.1}% 57
+\BOOKMARK [2][-]{subsection.1.2.1}{Environmental Requirements}{section.1.2}% 58
+\BOOKMARK [3][-]{paragraph.1.2.1.0.2}{NFR002}{subsection.1.2.1}% 59
+\BOOKMARK [2][-]{subsection.1.2.2}{Operational Requirements}{section.1.2}% 60
+\BOOKMARK [2][-]{subsection.1.2.3}{Development Requirements}{section.1.2}% 61
+\BOOKMARK [1][-]{section.1.3}{External Requirements}{chapter.1}% 62
+\BOOKMARK [2][-]{subsection.1.3.1}{Regulatory Requirements}{section.1.3}% 63
+\BOOKMARK [2][-]{subsection.1.3.2}{Ethical Requirements}{section.1.3}% 64
+\BOOKMARK [2][-]{subsection.1.3.3}{Legislative Requirements}{section.1.3}% 65
+\BOOKMARK [3][-]{subsubsection.1.3.3.1}{Accounting Requirements}{subsection.1.3.3}% 66
+\BOOKMARK [3][-]{subsubsection.1.3.3.2}{Safety / Security Requirements}{subsection.1.3.3}% 67
+\BOOKMARK [4][-]{paragraph.1.3.3.2.1}{NFR003}{subsubsection.1.3.3.2}% 68
+\BOOKMARK [0][-]{chapter.2}{Functional Requirements}{part.2}% 69
+\BOOKMARK [1][-]{paragraph.2.0.3.2.2}{FR001}{chapter.2}% 70
+\BOOKMARK [2][-]{paragraph.2.0.3.2.3}{FR002}{paragraph.2.0.3.2.2}% 71
+\BOOKMARK [3][-]{paragraph.2.0.3.2.4}{FR003}{paragraph.2.0.3.2.3}% 72
+\BOOKMARK [4][-]{paragraph.2.0.3.2.5}{FR004}{paragraph.2.0.3.2.4}% 73
+\BOOKMARK [4][-]{paragraph.2.0.3.2.6}{FR005}{paragraph.2.0.3.2.4}% 74
+\BOOKMARK [0][-]{chapter.3}{Scenarios}{part.2}% 75
+\BOOKMARK [1][-]{section.3.1}{Scenario for a voice-and-video-call directly between two members}{chapter.3}% 76
+\BOOKMARK [1][-]{section.3.2}{Scenario for starting a conference with video, audio and whiteboard functionalities}{chapter.3}% 77

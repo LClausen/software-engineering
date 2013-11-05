@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2013.10.29)  5 NOV 2013 20:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2013.10.29)  5 NOV 2013 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -420,16 +420,25 @@ LaTeX Info: Redefining \nameref on input line 21.
 \openout3 = `main.ist'.
 
 
-] (./main.gls) [2] (./main.toc
-[3
+] (./main.gls [2
 
-])
+]) [3
+
+] [4
+
+]
+(./main.toc [5] [6]
+Overfull \hbox (70.6953pt too wide) in paragraph at lines 77--77
+ [][] [] []  
+ []
+
+)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- (./inputs.tex (./requirements/01-user/00-user.tex [4] [5
+ (./inputs.tex (./requirements/01-user/00-user.tex [7] [8
 
-] [6])
+] [9] [10])
 (./requirements/01-user/01-req01.tex
 
 Package hyperref Warning: Difference (5) between bookmark levels is greater 
@@ -447,27 +456,39 @@ Package hyperref Warning: Difference (3) between bookmark levels is greater
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 26.
 
-[7]
-Overfull \hbox (3.47684pt too wide) in paragraph at lines 127--128
-[] \OT1/cmr/m/it/10 Mem-bers shall au-to-mat-i-cally be-come Mod-er-a-tors of t
-heir self-opened
+[11]
+Overfull \hbox (1.89908pt too wide) in paragraph at lines 127--128
+[] [][][][][]\OT1/cmr/m/it/10 s shall au-to-mat-i-cally be-come [][][][][]s of 
+their self-opened
  []
 
-[8] [9]
+
+Overfull \hbox (7.99474pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/it/10 in his [][][][][]. [][][][][]s with [][][][][] rights, that ar
+e not the [][][][][]
+ []
+
+[12]
+Overfull \hbox (29.51237pt too wide) in paragraph at lines 155--156
+\OT1/cmr/m/it/10 other [][][][][]s. Only the [][][][][] shall be able to re-mov
+e [][][][][]s.
+ []
+
+[13]
 Overfull \hbox (9.46004pt too wide) in paragraph at lines 203--204
-[] \OT1/cmr/m/it/10 In a whiteboard-conference the mod-er-a-tor shall be able t
-o give/remove
+[] \OT1/cmr/m/it/10 In a whiteboard-[][][][][] the [][][][][] shall be able to 
+give/remove
  []
 
-[10]
+[14]
 Overfull \hbox (35.75981pt too wide) in paragraph at lines 263--264
-[] \OT1/cmr/m/it/10 The con-fer-ences shall be record-able(video,voice,whiteboa
-rd) or savable(chat-
+[] \OT1/cmr/m/it/10 The [][][][][]s shall be record-able(video,voice,whiteboard
+) or savable(chat-
  []
 
-[11]) (./requirements/02-system/00-system.tex [12] [13
+[15]) (./requirements/02-system/00-system.tex [16] [17
 
-] [14])
+] [18])
 (./requirements/02-system/01-non-functional/00-nf.tex
 Chapter 1.
 ) (./requirements/02-system/01-non-functional/01-product/00-pro.tex)
@@ -518,10 +539,10 @@ nting/00-leg.tex)
 (./requirements/02-system/01-non-functional/03-external/03-legislative/02-safet
 y_security/00-safsec.tex)
 (./requirements/02-system/01-non-functional/03-external/03-legislative/02-safet
-y_security/01-req01.tex [15
+y_security/01-req01.tex [19
 
 ]) (./requirements/02-system/02-functional/00-f.tex
-[16]
+[20]
 Chapter 2.
 ) (./requirements/02-system/02-functional/01-req01.tex
 
@@ -536,46 +557,40 @@ Package hyperref Warning: Difference (3) between bookmark levels is greater
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 20.
 
-[17
+[21
 
-]) (./requirements/03-scenario/00-scen.tex [18]
+]) (./requirements/03-scenario/00-scen.tex [22]
 Chapter 3.
 ) (./requirements/03-scenario/sce01.tex
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ˜ in font cmti10!
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
-Missing character: There is no â in font cmti10!
-Missing character: There is no € in font cmti10!
-Missing character: There is no ™ in font cmti10!
- [19
+Overfull \hbox (3.58963pt too wide) in paragraph at lines 25--25
+[]\OT1/cmr/bx/n/14.4 Scenario for start-ing a con-fer-ence with video,
+ []
 
-]))
+[23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
- [20]
+ [24]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
  (./main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 34.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5D9C027B2F824EEB0499C48D233352F4;5355.
+(rerunfilecheck)             Checksum: 5D1A193472873CC45E8FEE3E72902190;5555.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
  ) 
 Here is how much of TeX's memory you used:
- 8587 strings out of 495032
- 127803 string characters out of 6181556
- 253464 words of memory out of 5000000
- 11580 multiletter control sequences out of 15000+600000
+ 8618 strings out of 495032
+ 128529 string characters out of 6181556
+ 253729 words of memory out of 5000000
+ 11611 multiletter control sequences out of 15000+600000
  10934 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,6n,38p,1435b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,6n,41p,1435b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (20 pages, 74608 bytes).
+Output written on main.dvi (24 pages, 101496 bytes).
