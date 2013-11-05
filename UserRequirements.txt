@@ -1,4 +1,43 @@
 User Requirement 001:
+  STATEMENT Users shall be able to register to the system
+    PRIORITY A
+
+User Requirement 002:
+  STATEMENT Members shall be able to use the plugins offered by the system
+    PRIORITY A
+
+User Requirement 003:
+  STATEMENT Members shall have social profiles
+    PRIORITY B
+
+User Requirement 004:
+  STATEMENT A member's profile shall be editable and hideable
+    PRIORITY B
+
+User Requirement 005:
+  STATEMENT Members shall have a contact list
+    PRIORITY B
+
+User Requirement 006:
+  STATEMENT Members shall be able to sort contacts in self-defined groups
+    PRIORITY C
+
+User Requirement 007:
+  STATEMENT 
+    PRIORITY A
+
+User Requirement 008:
+  STATEMENT 
+    PRIORITY A
+
+User Requirement 009:
+  STATEMENT 
+    PRIORITY A
+
+
+
+//
+User Requirement 001:
   STATEMENT The system shall provide plugins to communicate
             Thus plugin shall be at least: voice-and video-,chat-,whiteboard-conference,document- and screen-sharing
     PRIORITY A
