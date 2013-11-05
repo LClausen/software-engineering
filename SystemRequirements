@@ -124,3 +124,5 @@ System Requirement:
        STATEMENT the moderator of a conference shall be able to set the maximum number of users in his conference
           PRIORITY A
 
+       STATEMENT the system shall be protected against known types of server attacks
+          PRIORITY A
