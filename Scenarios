@@ -1,4 +1,3 @@
-
 Scenario 01
 
 INITIAL ASSUMPTION
@@ -6,3 +5,12 @@ NORMAL
 WHAT CAN GO WRONG
 OTHER ACTIVITIES
 SYSTEM STATE ON COMPLETION
+
+
+1: Phone-call between two Users
+2: Chat between two Users
+3: Gruop conference + chat + whiteboard
+4: Hold a lecture (open gruop chat, only one person talking on video)
+5: Share a Document
+6: Share Screen
+7: log a conference
