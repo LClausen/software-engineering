@@ -89,15 +89,19 @@ User Requirement 010:
     PRIORITY C
     
 User Requirement 010:
-  STATEMENT In a chat-conference a user shall be able to turn on an obszene language filter 
+  STATEMENT In a chat-conference a user shall be able to turn on/off an obscene language filter 
     PRIORITY B
     
 User Requirement 010:
-  STATEMENT
-    PRIORITY
+  STATEMENT In a chat-conference a user shall be able to choose a color and font for his text
+    PRIORITY B 
     
 User Requirement 010:
-  STATEMENT
+  STATEMENT In a whiteboard-conference a user shall be able to choose different tools and colors to draw/erase
+    PRIORITY A
+    
+User Requirement 010:
+  STATEMENT In a white
     PRIORITY
     
 User Requirement 010:
