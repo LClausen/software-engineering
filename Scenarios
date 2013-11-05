@@ -31,7 +31,47 @@ The data-stream is stopped. The video-chat-windows and tabs close on both Member
 
 1: Phone-call between two Members
 2: Chat between two Users
-3: Gruop conference + chat + whiteboard
+
+Scenario 03
+
+INITIAL ASSUMPTION
+member1 wants to start a conference with video, chat and whiteboard functionality
+
+NORMAL
+
+the member starts a conference with the plugins he wants.
+He invites other people to this conference by sending them a link to the conference directly through
+the system (if they're members), or through email (if not members).
+Each user, once he joins, will be able to see other people's chat messages and videos, and can hear their audio. He can also draw on the whiteboard.
+Users will see a video tab for the videos of other users, and a whiteboard tab where they can draw together.
+Each user can choose if he wants to share his video and audio or not.
+
+WHAT CAN GO WRONG
+
+the user doesn't have a camera, or a microphone, or both.
+  Video and audio sharing will be disabled for that user, he'll still be able to see the others though.
+  
+A user's internet speed is too low for video streaming
+  the user will be given the option to disbale video streaming, or lower the quality
+  
+A user is blocked by another
+  the other user will not see this user's chat messages and video, nor hear his audio.
+  
+The connection collapses
+  Give feedback to Member1 and Member2 (connection timeout)
+  
+The moderator leaves the conference
+  the system assigns a sub-moderator as the current moderator, if at least one sub-moderator exists. If not, then some other member will be randomly assigned as moderator.
+  
+The server is overloaded
+  show a message to the users, that they should expect issues because of overload
+
+OTHER ACTIVITIES
+  Each user can take part in other conferences, but will have his audio and video disabled
+
+SYSTEM STATE ON COMPLETION
+The conference is stopped. All the tabs close on all users' platforms. The connection is cut (cancelled).
+  
 4: Hold a lecture (open gruop chat, only one person talking on video)
 5: Share a Document
 6: Share Screen
