@@ -127,43 +127,58 @@ User Requirement 030:
     PRIORITY A
     
 User Requirement 031:
-  STATEMENT (Sub-)Moderators shall be able to share their conferences to to other conference's participants.
+  STATEMENT (Sub-)Moderators shall be able to share their conferences to other conference's participants.
     PRIORITY A
-
+    
 User Requirement 032:
-  STATEMENT No data shall be stored on local devices
+  STATEMENT The conferences shall be recordable(video,voice) or savable(text,whiteboard)
     PRIORITY A
     
 User Requirement 033:
-  STATEMENT The system shall be as efficient as possible
-    PRIORITY A
+  STATEMENT Moderators (excluding sub-moderators) shall be able to combine their conferences to another conference.
+            They have to be moderators of both of those conferences tho combine them.
+            This combined conference will be handled like only one conference.
+            Functions like recording,mute,sub-moderation rights and invitation will now take effect on both conferences.
+    PRIORITY C
 
 User Requirement 034:
-  STATEMENT The system shall be hosted on a dedicated server
+  STATEMENT No data shall be stored on local devices
     PRIORITY A
     
 User Requirement 035:
+  STATEMENT The system shall be as efficient as possible
+    PRIORITY A
+
+User Requirement 036:
+  STATEMENT The system shall be hosted on a dedicated server
+    PRIORITY A
+    
+User Requirement 037:
   STATEMENT The system shall be accessable as a website via browser
     PRIORITY A
     
-User Requirement 036:
+User Requirement 038:
   STATEMENT The system shall be easy to use
     PRIORITY A
 
-User Requirement 037:
+User Requirement 039:
   STATEMENT The system shall also allow unregistered users to take part in conferences as guests,
             if they were invited by a (sub-)moderator.
     PRIORITY A
 
-User Requirement 038:
-  STATEMENT The conferences shall be recordable(video,voice) or savable(text,whiteboard)
-    PRIORITY A
-
-User Requirement 039:
+User Requirement 040:
   STATEMENT A member shall be able to open public or private conferences.
             Public conferences shall be accessible to every user who wants to join.
     PRIORITY C
     
-User Requirement 040:
+User Requirement 041:
   STATEMENT The system shall be accessible to a high amount of users
+    PRIORITY A
+    
+User Requirement 042:
+  STATEMENT The system shall be protected against attacks
+    PRIORITY A
+    
+User Requirement 043:
+  STATEMENT LOL WE HAVE 42 USER REQUIREMENTS ! :D
     PRIORITY A
