@@ -101,3 +101,26 @@ System Requirement:
 
        STATEMENT there shall be no information stored locally on user systems. Everything shall be stored on the server.
           PRIORITY A
+
+
+       STATEMENT the videos of the users shall be shown in smaller windows inside the video window. The user can then click on a specific one to enlarge it.
+          PRIORITY A
+
+       STATEMENT public conferences shall be visible to all members when they log in
+          PRIORITY A
+
+       STATEMENT members have the choice to make their profiles public or private
+          PRIORITY A
+
+       STATEMENT private information of members shall be encrypted and saved on the server
+          PRIORITY A
+
+       STATEMENT It shall also be possible for users inside a conference to share video, audio and files directly between each other (p2p)
+          PRIORITY A
+
+       STATEMENT system should be able to handle opening a large number of conferences simultaniously
+          PRIORITY A
+
+       STATEMENT the moderator of a conference shall be able to set the maximum number of users in his conference
+          PRIORITY A
+
