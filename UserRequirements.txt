@@ -93,7 +93,7 @@ User Requirement 022:
     PRIORITY B
     
 User Requirement 023:
-  STATEMENT In a chat-conference a user shall be able to choose a color and font for his text
+  STATEMENT In a chat-conference a user shall be able to choose a color and font for the chat messages he sees
     PRIORITY B 
     
 User Requirement 024:
@@ -101,7 +101,7 @@ User Requirement 024:
     PRIORITY A
     
 User Requirement 025:
-  STATEMENT In a whiteboard-conference the moderator shall be able to give/remove drawing rights to the participants
+  STATEMENT In a whiteboard-conference the moderator or a sub-moderator shall be able to give/remove drawing rights to the participants
     PRIORITY B
     
 User Requirement 026:
@@ -109,16 +109,16 @@ User Requirement 026:
     PRIORITY A
 
 User Requirement 027:
-  STATEMENT In a document-sharing-conference the moderator shall be able to give/remove writing rights to the participants
+  STATEMENT In a document-sharing-conference the moderator or a sub-moderator shall be able to give/remove writing rights to the participants
     PRIORITY B
     
 User Requirement 028:
-  STATEMENT In a document-sharing-conference the participants, if they have writing-rights, 
+  STATEMENT In a document-sharing-conference, the participants, if they have writing-rights, 
             shall be able to highlight text-parts with a individually chosen color
     PRIORITY B
     
 User Requirement 029:
-  STATEMENT In a document-sharing-conference the participants, if they have writing-rights, 
+  STATEMENT In a document-sharing-conference, the participants, if they have writing-rights, 
             shall be able to comment their highlighted text-parts
     PRIORITY B
     
@@ -132,15 +132,12 @@ User Requirement 031:
     
 User Requirement 032:
   STATEMENT The conferences shall be recordable(video,voice,whiteboard) or savable(chat-log,text-document,whiteboard)
-            All records, saved on the server, shall be accessable by the (registered) conference participants.
-            All records, saved on the server, shall be downloadable.
     PRIORITY A
     
 User Requirement 033:
   STATEMENT Moderators (excluding sub-moderators) shall be able to combine their conferences to another conference.
-            They have to be moderators of both of those conferences tho combine them.
-            This combined conference will be handled like only one conference.
-            Functions like recording,mute,sub-moderation rights and invitation will now take effect on both conferences.
+            These combined conference will be handled like only one conference.
+            
     PRIORITY C
 
 User Requirement 034:
