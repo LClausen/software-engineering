@@ -1,1 +1,104 @@
-yeah
+User Requirement 001:
+  STATEMENT Users shall be able to register to the system
+    PRIORITY A
+      
+  System Requirement 001:
+    STATEMENT User register by choosing a unique username and a password. These are stored in a database on the server.
+      PRIORITY A
+      
+  System Requirement 001:
+    STATEMENT Using the software (except invitation) requires a login, where it is checked wether the user is a member,
+              by compairing his data to the database.
+      PRIORITY A
+      
+  System Requirement 001:
+    STATEMENT 
+      PRIORITY A
+    
+User Requirement 002:
+  STATEMENT Member shall solve a short tutorial right after registration
+    PRIORITY C
+      
+  System Requirement 001:
+    STATEMENT The Tutorial shall inform the member about the softwares main functions and teach him how to use them.
+              Members shall be able to finish it within 10 minutes.
+    PRIORITY C
+
+User Requirement 003:
+  STATEMENT Members shall have social profiles
+    PRIORITY B
+      
+  System Requirement 001:
+    STATEMENT A profile shall contain personal information such as the name and an optional picture.
+      PRIORITY A
+
+User Requirement 004:
+  STATEMENT A member's profile shall be editable and hideable
+    PRIORITY B
+    
+  System Requirement 001:
+    STATEMENT A member shall be able to make changes to his profile such as changing his picture or information.
+      PRIORITY B
+  
+  System Requirement 001:
+    STATEMENT A member shall be able to hie his profile from certain other users.
+      PRIORITY B
+    
+  System Requirement 001:
+    STATEMENT A members profile is hidden from members, he blocked, by default.
+      PRIORITY B
+
+User Requirement 005:
+  STATEMENT Members shall have a contact list
+    PRIORITY B
+      
+  System Requirement 001:
+    STATEMENT 
+      PRIORITY A
+      
+  System Requirement 001:
+    STATEMENT There shall be a contact list for each user, where he can store other members names
+      PRIORITY B
+        
+  System Requirement 001:
+    STATEMENT Adding another member to ones contact list requires his approval.
+      PRIORITY B
+        
+  System Requirement 001:
+    STATEMENT A request shall be send, when one member tries to add another to his contact list.
+      PRIORITY B
+
+User Requirement 006:
+  STATEMENT Members shall be able to sort contacts in self-defined groups
+    PRIORITY C
+      
+  System Requirement 001:
+    STATEMENT 
+      PRIORITY A
+      
+  System Requirement 001:
+    STATEMENT 
+      PRIORITY A
+    
+
+User Requirement 007:
+  STATEMENT Members shall be able to search for other members to visit their profile and add them to their contact list
+    PRIORITY B
+
+User Requirement 008:
+  STATEMENT Members shall be able to block other users.
+            Thus users shall not be able to request a conferences with that member.
+    PRIORITY C
+
+User Requirement 009:
+  STATEMENT Members shall be able to unblock blocked users
+    PRIORITY C
+
+User Requirement 010:
+  STATEMENT Members shall be able to use the plugins offered by the system
+    PRIORITY A
+
+User Requirement 011:
+  STATEMENT The offered plugins shall be at least: voice- and video-,
+            chat-, whiteboard-conference, document- and screen-sharing
+    PRIORITY A
