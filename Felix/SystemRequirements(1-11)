@@ -51,13 +51,17 @@ User Requirement 004:
 User Requirement 005:
   STATEMENT Members shall have a contact list
     PRIORITY B
-      
-  System Requirement 001:
-    STATEMENT 
-      PRIORITY A
+    
+    System Requirement 001:
+    STATEMENT The contact list is stored on the server, with the members data.
+      PRIORITY B
       
   System Requirement 001:
     STATEMENT There shall be a contact list for each user, where he can store other members names
+      PRIORITY B
+      
+  System Requirement 001:
+    STATEMENT A member shall be able to add and remove contacts from his contact list.
       PRIORITY B
         
   System Requirement 001:
@@ -73,22 +77,39 @@ User Requirement 006:
     PRIORITY C
       
   System Requirement 001:
-    STATEMENT 
-      PRIORITY A
+    STATEMENT Groups are treated as members in contact list.
+      PRIORITY C
       
   System Requirement 001:
-    STATEMENT 
-      PRIORITY A
+    STATEMENT A member shall be able to name and rename the groups in his contact list.
+      PRIORITY C
     
 
 User Requirement 007:
   STATEMENT Members shall be able to search for other members to visit their profile and add them to their contact list
     PRIORITY B
+      
+  System Requirement 001:
+    STATEMENT There shall be a search function, for the unique usernames.
+      PRIORITY B
+        
+  System Requirement 001:
+    STATEMENT The profiles shall show the data, their owner allowed to be public. ???????? is der satz so ok?
+      PRIORITY B
+      
+  System Requirement 001:
+    STATEMENT The profiles of members who blocked the member searching, shall not appear on the search.
+      PRIORITY C
+        
 
 User Requirement 008:
   STATEMENT Members shall be able to block other users.
             Thus users shall not be able to request a conferences with that member.
     PRIORITY C
+      
+  System Requirement 001:
+      STATEMENT 
+        PRIORITY B
 
 User Requirement 009:
   STATEMENT Members shall be able to unblock blocked users
