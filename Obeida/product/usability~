@@ -8,8 +8,4 @@ STATMENT the document sharing feature shall allow the modification of a pure tex
 
 PRIORITY A
 
-STATEMENT certain character sequences shall be reserved for emoticons support. Those character sequences shall then be added to the chat message by choosing them from a menu
-PRIORITY C
 
-STATEMENT only one document can be editable in one document sharing session
-PRIORITY A 

@@ -12,3 +12,5 @@ SR001
   STATEMENT When merging conferences, The moderators of both conferencs shall agree on the merging.
   PRIORITY A
  
+  STATEMENT only one user can share his screen at one time. The moderator or a sub-moderator can decide who's allowed to share his screen.
+  PRIORITY A

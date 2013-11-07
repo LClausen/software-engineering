@@ -123,7 +123,7 @@ User Requirement 029:
     PRIORITY B
     
 User Requirement 030:
-  STATEMENT In a screen-sharing-conference the moderator shall be able to show his actual screen
+  STATEMENT In a screen-sharing-conference users shall be able to show their actual screens as videos
     PRIORITY A
     
 User Requirement 031:
@@ -137,7 +137,6 @@ User Requirement 032:
 User Requirement 033:
   STATEMENT Moderators (excluding sub-moderators) shall be able to combine their conferences to another conference.
             These combined conference will be handled like only one conference.
-            
     PRIORITY C
 
 User Requirement 034:
