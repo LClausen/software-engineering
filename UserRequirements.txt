@@ -140,23 +140,23 @@ User Requirement 033:
     PRIORITY C
 
 User Requirement 034:
+  STATEMENT The system shall be hosted on a dedicated server
+    PRIORITY A
+	
+User Requirement 035:
   STATEMENT No data shall be stored on local devices
     PRIORITY A
     
-User Requirement 035:
+User Requirement 036:
   STATEMENT The storage need of the system shall be as low as possible
     PRIORITY A
     
-User Requirement 036:
+User Requirement 037:
   STATEMENT The system shall be as efficient as possible
     PRIORITY A
-
-User Requirement 037:
-  STATEMENT The system shall be hosted on a dedicated server
-    PRIORITY A
-    
+	
 User Requirement 038:
-  STATEMENT The system shall be accessable as a website via browser
+  STATEMENT The system shall be accessible as a website via browser
     PRIORITY A
     
 User Requirement 039:
@@ -182,5 +182,5 @@ User Requirement 043:
     PRIORITY A
     
 User Requirement 044:
-  STATEMENT The system shall be conform with the german rights
+  STATEMENT The system shall be conform with the German rights
     PRIORITY A
