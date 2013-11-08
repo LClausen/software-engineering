@@ -1,0 +1,7 @@
+User Requirement 012:
+	STATEMENT The system shall be extendable with new plugins
+		PRIORITY A
+
+System Requirement 012.1:
+	STATEMENT There shall be an interface where the admin shall be to easily add new plugins to the system
+		PRIORITY A
