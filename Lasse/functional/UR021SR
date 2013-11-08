@@ -1,19 +1,21 @@
-User Requirement 020:
-  STATEMENT In a voice- and video-conference a user shall be able to turn on/off his soundinput, -output and videoinput
-    PRIORITY B
+User Requirement 021:
+	STATEMENT In a voice- and video-conference a user shall be able to configure the sound and video quality
+		PRIORITY C
 		
-System Requirement 020.1:
-	STATEMENT A voice- and video-conference plugin shall provide several buttons
-		PRIORITY B
+System Requirement 021.1:
+	STATEMENT A video-and voice-conference shall provide a button, which opens a menue window to modify the quality
+		PRIORITY C
 		
-System Requirement 020.2:
-	STATEMENT A button, that shall start a function where the sound recording is toggled on/off
-		PRIORITY B
+System Requirement 021.2:
+	STATEMENT Modifying the quality shall be the option to choose sound-quality and volume
+			  Also shall be able to choose the resolution format from the video
+		PRIORITY C
 		
-System Requirement 020.3:
-	STATEMENT A button, that shall start a function where the video recording is toggled on/off
-		PRIORITY B
+System Requirement 021.3:                                 -- >Performence requirement
+	STATEMENT The quality option shall not decrease the performance to other users
+			  Also the options modifyed shall not overtake the internet-connection
+		PRIORITY D
 		
-System Requirement 020.4:
-	STATEMENT A button, that shall start a function where the sound output is toggled on/off
-		PRIORITY B
+System Requirement 02:
+	STATEMENT
+		PRIORITY
