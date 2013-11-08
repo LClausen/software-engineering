@@ -10,12 +10,3 @@ System Requirement 021.2:
 	STATEMENT Modifying the quality shall be the option to choose sound-quality and volume
 			  Also shall be able to choose the resolution format from the video
 		PRIORITY C
-		
-System Requirement 021.3:                                 -- >Performence requirement
-	STATEMENT The quality option shall not decrease the performance to other users
-			  Also the options modifyed shall not overtake the internet-connection
-		PRIORITY D
-		
-System Requirement 02:
-	STATEMENT
-		PRIORITY
