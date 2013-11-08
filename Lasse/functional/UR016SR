@@ -1,0 +1,29 @@
+User Requirement 016:
+	STATEMENT Members shall automatically become Moderators of their self-opened conferences
+		PRIORITY A
+		
+System Requirement 016.1:
+	STATEMENT The member shall be the owner of their conference (Moderator)
+		PRIORITY A
+		
+System Requirement 016.2:
+	STATEMENT A moderator shall be the only one who can modify its conference
+		PRIORITY A
+		
+System Requirement 016.3:
+	STATEMENT Modifying a conference shall be the options a plugin provides
+		PRIORITY A
+		
+System Requirement 016.4:
+	STATEMENT A moderator shall be able to set a other member to be the moderator
+			  The old moderator shall be from now on only sub-moderator
+			  The new moderator shall from now on be the owner of the conference
+		PRIORITY B
+		
+System Requirement 016.5:
+	STATEMENT A moderator shall be able to close the conference, provided with a button by the plugin
+		PRIORITY A
+
+System Requirement 016.6:
+	STATEMENT If the moderator closes the conference, the conference shall close for all other users participating, too
+		PRIORITY A
