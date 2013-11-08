@@ -1,0 +1,33 @@
+User Requirement 013:
+	STATEMENT Members shall be able to open and use several plugins simultaneously
+		PRIORITY A
+
+System Requirement 013.1:
+	STATEMENt A guest shall be able to use only 1 plugin simultaneously
+		PRIORITY A
+
+System Requirement 013.2:
+	STATEMENT A member shall be able to use a specific number of plugins simultaneously
+		PRIORITY A
+		
+System Requirement 013.3:
+	STATEMENT The specific number of plugins a member can use shall be set by the admin
+		PRIORITY A
+
+System Requirement 013.4:
+	STATEMENT If a member has opened more than 1 plugin, there shall always be only one focused
+			  The member shall be able to set the focus on any plugin he started, the old focus 
+			  is removed and set on the targeted plugin
+		PRIORITY A
+
+System Requirement 013.4:
+	STATEMENT The user can only interact with the plugin which is focussed
+		PRIORITY A
+
+System Requirement 013.5:
+	STATEMENT A user can only have one video- and voiceconference simultaneously
+		PRIORITY
+
+System Requirement 013.6:
+	STATEMENT If the Video-and Voice conference is not in focus, it shall still send the video- and voice data of the user
+		PRIORITY A
