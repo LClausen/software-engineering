@@ -1,0 +1,13 @@
+User Requirement 018:
+  STATEMENT Moderators shall be able to give moderator rights to other members in his conference.
+            Members with moderator rights, that are not the moderator itself shall be called sub-moderators
+            The moderator shall also be able to remove those rights from sub-moderators
+    PRIORITY B
+		
+System Requirement 018.1:
+	STATEMENT A button shall provide the function to set sub-moderator rank by adding members to a list
+		PRIORITY B
+		
+System Requirement 018.2:
+	STATEMENT The list shall be visible for (sub-)moderators only 
+		PRIORITY C
