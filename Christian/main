@@ -1,1 +1,220 @@
-main
+System Requirement 000:
+  STATEMENT There shall be no client or anything equal to make use of the system.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The system shall be embedded in html/PhP code to get reachable via any browser.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The system GUI shall be written in Java.
+			It shall provide the usability to every Java-able terminal.
+    PRIORITY A
+
+System Requirement 000:
+  STATEMENT Member data shall be saved in well-structured databases.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The system shall use MySQL to make the databases easy manipulatable for a maintenance.  
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Conference records or logs shall be saved on the server.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Whiteboards shall also be saved as whiteboard object.
+			The participants shall be able to reopen the saved whiteboards.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Every participant of this conference shall find a reference to the conference data in a 'records section'.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Every participant shall be allowed to download all data in his record section to his local device.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The administrator shall be able to set a maximum time for unused records to stay saved on the system.
+	DEFAULT: 4 weeks.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The administrator shall be able to set a maximum time for unused accounts to stay saved on the system.
+  DEFAULT: 6 months.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT All Members shall get a warning email for every going-to-be-deleted situation they are concerned to.
+			The administrator shall be able to set the interval to the deletion date, when the system will send the warning email.
+    DEFAULT: 5 days.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Members shall be able to delete their reference in the records section.
+			They will no more receive an warning email if this record is going to be deleted.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT A saved record shall also be deleted automatically if all references of the participants are deleted.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Conferences with only 2 participants shall be connected via peer to peer.
+			There shall be a server connection if they decide to record, so the saving will be stored to the server.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT If the system has crashed the system shall reboot automatically. 
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT To prevent crashes the system shall at least reach 90% in testing.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The administrator shall be able to set a maximum count of simultaneous conferences per user to limit the server workload.
+	DEFAULT 5 simultaneous conferences.
+    PRIORITY A
+
+System Requirement 000:
+  STATEMENT The GUI shall be overview-able.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Because most people using windows,
+			the system shall be set up in an equal way to ensure the simplicity of the system's structure. 
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT There shall be an Application-Bar in the south like on windows 7.
+			Above this bar, there shall be small space for minimized conferences. 
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The Application-Bar shall contain all plugins installed to the server.
+    PRIORITY A	
+	
+System Requirement 000:
+  STATEMENT The Application-Bar shall be scrollable horizontally if needed
+    PRIORITY A	
+	
+System Requirement 000:
+  STATEMENT The Application-Bar shall be freely sortable by the member.
+    PRIORITY B
+	
+System Requirement 000:
+  STATEMENT (Sub-)Moderators shall have the ability to invite non-members via email.
+			If they join, they will get a temporary guest account.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Guest accounts shall be deleted after leaving the conference.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Guest accounts shall not have the ability to open new conferences.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Guest accounts shall not have a social profile but they shall have all other sections (even records section).
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT It shall be possible to upgrade a guest account to member account.
+			All options and information (like references in records section) shall be transfered to the new member account.
+    PRIORITY A
+	
+System Requirement 000:
+  STATEMENT A moderator shall be able to publish his conference.
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT A public conference shall have a title and (optional) a description.
+			Those shall be set by the publisher/the moderator.
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT A public conference shall be listed in a 'public' section.
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT There shall be a search function in the public section.
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT In a public conference, the moderator shall be able to create a joining-link in the conference options.
+			He is allowed to publish this link.
+			Everyone who click this link will automatically join to this conference.
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT If a user joins via joining-link he shall (if not already logged in) be asked to login or to join as a guest.
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT The moderator of a published conference shall be able to privatize the conference.
+			The conference shall be deleted from the list in the public section.
+			The joining-link shall get unusable. 
+	PRIORITY C
+	
+System Requirement 000:
+  STATEMENT There shall be a connection management system.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The server shall have enough memory to stand a rather high amount of connections.
+	PRIORITY A
+
+System Requirement 000:
+  STATEMENT There shall not be any encrypted connection, to keep each connection on a low workload.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The system shall have a DDOS-Protection.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The system shall have a firewall to defend against outer attacks.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The firewall shall only accept connections from ports the system uses.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The password of a user shall include at least one number, one capital and one lower letter.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT If a user tries to login with another ID as he is registered or if he wants to change his password
+			he shall be forced to verify those actions by email.
+			This shall prevent hacking.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT A member shall be able to set options for privacy in his social profile:
+			 private(only administrator can see),
+			 for contacts(own contacts only,not if the user is part of another one's contact list)
+			 and public(for all other members).
+	DEFAULT: private
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT By account deletion all saved data concerned to this account shall be deleted too.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT If anyone wants to record or save a conference, all other participants shall get asked to confirm the record.
+			If there is only one participant not confirming, it shall not be possible to record.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT Nobody but the administrator shall have access to the saved data.
+	PRIORITY A
+	
+System Requirement 000:
+  STATEMENT The data shall not be copyable.
+	PRIORITY A
