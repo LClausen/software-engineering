@@ -1,0 +1,44 @@
+User Requirement 014:
+	STATEMENT The system's interface shall be windows-based
+		PRIORITY A
+
+System Requirement 014.1:
+	STATEMENT A plugin started by the user, shall look like a window frame, with a bar above it which 
+			  contains the plugin's name and buttons. The bar may has the same length as the window frame.
+		PRIORITY A
+
+System Requirement 014.2:
+	STATEMENT The positon of the window frame shall not be absolute, the user shall be able move the window inside of the browser
+		PRIORITY A
+
+System Requirement 014.3:
+	STATEMENT When the window frame is moved, the new position shall be keept as actual position of the window
+		PRIORITY A
+
+System Requirement 014.4:
+	STATEMENT With several window frames opened, the focused one shall be always in front of all other window frames
+		PRIORITY A
+
+System Requirement 014.5:
+	STATEMENT The inactive window frames shall cover up in a row, where the last focused covers the pre-last-focused(and so on)
+		PRIORITY A
+
+System Requirement 014.6:
+	STATEMENT The plugin shall be executed inside its window frame
+		PRIORITY A
+
+System Requirement 014.7:
+	STATEMENT The plugin shall be manage-able from the user by using several buttons inside of a bar above a windowframe
+		PRIORITY A
+
+System Requirement 014.8:
+	STATEMENT The buttons of every plugin shall provide at least the functions:
+									- invite User
+									- remove User
+									- give rights
+									- remove rights
+		PRIORITY A
+
+System Requirement 014.9:
+	STATEMENT Every plugin shall have in addition plugin-specific functions to provide for the user
+		PRIORITY A
