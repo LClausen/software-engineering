@@ -182,5 +182,5 @@ User Requirement 043:
     PRIORITY A
     
 User Requirement 044:
-  STATEMENT The system shall be conform with the German rights
+  STATEMENT The system shall be conform to the German rights
     PRIORITY A
