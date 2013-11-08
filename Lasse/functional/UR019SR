@@ -1,0 +1,21 @@
+User Requirement 019:
+  STATEMENT Moderators (and sub-moderators) shall be able to remove other users from the conference.
+            Sub-moderators shall not be able to remove other (sub-)moderators.
+            Only the moderator shall be able to remove sub-moderators.
+    PRIORITY A/B
+		
+System Requirement 019.1:
+	STATEMENT Moderators shall be able to remove users and sub-moderators from a conference, by clicking the remove button at users name bar(017.8)
+		PRIORITY A
+		
+System Requirement 019.2:
+	STATEMENT Sub-moderators shall be able to remove users from a conference, by clicking the remove button at the users name bar(017.8)
+		PRIORITY B
+		
+System Requirement 019.3:
+	STATEMENT Sub-moderators shall not be able to remove other sub-moderators from a conference, by clicking the remove button at the users name bar(017.8)
+		PRIORITY B
+		
+System Requirement 019.4:
+	STATEMENT Sub-moderators shall not be able to modify other sub-moderators rights in a conference
+		PRIORITY
