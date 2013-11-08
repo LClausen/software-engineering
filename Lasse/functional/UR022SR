@@ -1,0 +1,16 @@
+User Requirement 022:
+	STATEMENT In a chat-conference a user shall be able to turn on/off an obscene language filter
+		PRIORITY B
+		
+System Requirement 022.1:
+	STATEMENT The chat-conference shall provide a button to toggle on/off obscene language filter
+		PRIORITY B
+		
+System Requirement 022.2:
+	STATEMENT The language filter shall compare words written in the chat conference with a database of obscene words
+			  If an word is obscene the filter shall replace the word with a random generated char-sequenze of symbols(not contained in any alphabet)
+		PRIORITY B
+	
+System Requirement 022.3:
+	STATEMENT The chat-conference shall provide a flood-stop system, when a participant writes more than 3 messages every second, he shall not be able to write again for 10 seconds
+		PRIORITY C
