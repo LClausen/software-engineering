@@ -1,0 +1,38 @@
+User Requirement 017:
+	STATEMENT Moderators (and sub-moderators) shall be able to invite users to their conference
+		PRIORITY A/B
+		
+System Requirement 017.1:
+	STATEMENT The conference shall provide a button to send invites to users
+		PRIORITY A
+		
+System Requirement 017.2:
+	STATEMENT A (sub-)moderator shall be able to invite people from his contact list and shall be able to invite people via e-mail notification
+		PRIORITY A
+		
+System Requirement 017.4:
+	STATEMENT A (sub-)moderator shall be able to invite a complete group of contacts at once
+		PRIORITY B
+	
+System Requirement 017.5:
+	STATEMENT An invite via e-mail shall send a generated link which allows access to this conference only
+		PRIORITY A
+	
+System Requirement 017.6:
+	STATEMENT For every participant a name-bar shall be added to the participant list
+		PRIORITY A
+		
+System Requirement 017.7:
+	STATEMENT The bar-size shall be the length of the users name plus 2 buttons for the moderator: 1. to remove a user(A) 2. to set or remove rights(B)
+		PRIORITY A/B
+	
+System Requirement 017.8:
+	STATEMENT The participant-list shall be on left-hand side of every window, were every participant is listed
+			  The participant-list shall have the same height as the window frame where the list is attached to
+			  The participant-list shall have the a fixed width of 10% of the windows width.
+			  Scroll-bars shall appear for horizontal and vertical scrolling if needed.
+		PRIORITY A
+		
+System Requirement 017.9:
+	STATEMENT The participant-list shall be sorted by rights and the usernames.
+		PRIORITY

@@ -1,0 +1,11 @@
+User Requirement 012:
+	STATEMENT The system shall be extendable with new plugins
+		PRIORITY A
+
+System Requirement 012.1:
+	STATEMENT There shall be an interface where the admin shall be able to easily add new plugins to the system
+		PRIORITY A
+
+System Requirement 01:
+	STATEMENT A newly added plugin shall be shown in each member's Application-Bar and be usable after a GUI reload.
+		PRIORITY A

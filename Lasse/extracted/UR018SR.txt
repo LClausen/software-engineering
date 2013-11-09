@@ -1,0 +1,4 @@
+User Requirement 018:
+  STATEMENT Moderators shall be able to give moderator rights to other members in his conference.
+            The moderator shall also be able to remove those rights from sub-moderators
+    PRIORITY B

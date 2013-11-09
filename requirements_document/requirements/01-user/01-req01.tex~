@@ -1,0 +1,366 @@
+\paragraph{UR001}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{user}s shall be able to register to the system
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR002}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member} shall solve a short tutorial right after registration
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+
+\paragraph{UR003}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall have social profiles
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+
+\paragraph{UR004}
+  \begin{description}
+  \item [Statement] 
+    \textit{ A \gls{member}'s profile shall be editable and hideable
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+
+\paragraph{UR005}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall have a contact list
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+
+\paragraph{UR006}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to sort contacts in self-defined groups
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+
+\paragraph{UR007}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to search for other \gls{member}s to visit their profile and add them to their contact list
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+
+\paragraph{UR008}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to block other \gls{user}s.
+            Thus \gls{user}s shall not be able to request a \gls{conference}s with that \gls{member}.
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+
+\paragraph{UR009}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to unblock blocked \gls{user}s
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+
+\paragraph{UR010}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to use the \gls{plugin}s offered by the system
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+
+\paragraph{UR011}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The offered \gls{plugin}s shall be at least: voice- and video-, 
+            chat-, whiteboard-\gls{conference}, document- and screen-sharing
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR012}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be extendable with new \gls{plugin}s
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR013}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to open and use several \gls{plugin}s simultaneously
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR014}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system's interface shall be windows-based
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR015}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall be able to minimize and scale the \gls{plugin}-windows
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR016}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{member}s shall automatically become \gls{moderator}s of their self-opened \gls{conference}s
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR017}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{moderator}s shall be able to give \gls{moderator} rights to other \gls{member}s in his \gls{conference}.
+            \gls{member}s with \gls{moderator} rights, that are not the \gls{moderator} itself shall be called \gls{sub-moderator}s
+            The \gls{moderator} shall also be able to remove those rights from \gls{sub-moderator}s
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+
+\paragraph{UR018}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{moderator}s (and \gls{sub-moderator}s) shall be able to invite \gls{user}s to their \gls{conference}
+    .}
+  \item [Priority] \textit{A}
+\end{description}/B
+
+\paragraph{UR019}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{moderator}s (and \gls{sub-moderator}s) shall be able to remove other \gls{user}s from the \gls{conference}.
+            \gls{sub-moderator}s shall not be able to remove other \gls{sub-moderator}s.
+            Only the \gls{moderator} shall be able to remove \gls{sub-moderator}s.
+    .}
+  \item [Priority] \textit{A}
+\end{description}/B
+    
+\paragraph{UR020}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a voice- and video-\gls{conference} a \gls{user} shall be able to turn on/off his soundinput, -output and videoinput
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+    
+\paragraph{UR021}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a voice- and video-\gls{conference} a \gls{user} shall be able to configure the sound and video quality
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+    
+\paragraph{UR022}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a chat-\gls{conference} a \gls{user} shall be able to turn on/off an obscene language filter 
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+    
+\paragraph{UR023}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a chat-\gls{conference} a \gls{user} shall be able to choose a color and font for his text
+    .}
+  \item [Priority] \textit{B}
+\end{description} 
+    
+\paragraph{UR024}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a whiteboard-\gls{conference} a \gls{user} shall be able to choose different tools and colors to draw/erase
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR025}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a whiteboard-\gls{conference} the \gls{moderator} shall be able to give/remove drawing rights to the participants
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+    
+\paragraph{UR026}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a document-sharing-\gls{conference} the participants shall be able to create and edit a text-based document
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+
+\paragraph{UR027}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a document-sharing-\gls{conference} the \gls{moderator} shall be able to give/remove writing rights to the participants
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+    
+\paragraph{UR028}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a document-sharing-\gls{conference} the participants, if they have writing-rights, 
+            shall be able to highlight text-parts with a individually chosen color
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+    
+\paragraph{UR029}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a document-sharing-\gls{conference} the participants, if they have writing-rights, 
+            shall be able to comment their highlighted text-parts
+    .}
+  \item [Priority] \textit{B}
+\end{description}
+    
+\paragraph{UR030}
+  \begin{description}
+  \item [Statement] 
+    \textit{ In a screen-sharing-\gls{conference} the \gls{moderator} shall be able to show his actual screen
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR031}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{sub-moderator}s shall be able to share their \gls{conference}s to other \gls{conference}'s participants.
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR032}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The \gls{conference}s shall be recordable(video,voice,whiteboard) or savable(chat-log,text-document,whiteboard)
+            All records, saved on the server, shall be accessable by the (registered) \gls{conference} participants.
+            All records, saved on the server, shall be downloadable.
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR033}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{moderator}s (excluding \gls{sub-moderator}s) shall be able to combine their \gls{conference}s to another \gls{conference}.
+            They have to be \gls{moderator}s of both of those \gls{conference}s to combine them.
+            This combined \gls{conference} will be handled like only one \gls{conference}.
+            Functions like recording,mute,sub-moderation rights and invitation will now take effect on both \gls{conference}s.
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+
+\paragraph{UR034}
+  \begin{description}
+  \item [Statement] 
+    \textit{ No data shall be stored on local devices
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR035}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be as efficient as possible
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+
+\paragraph{UR036}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be hosted on a dedicated server
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR037}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be accessable as a website via browser
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR038}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be easy to use
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+
+\paragraph{UR039}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall also allow unregistered \gls{user}s to take part in \gls{conference}s as \gls{guest}s,
+            if they were invited by a \gls{sub-moderator}.
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+
+\paragraph{UR040}
+  \begin{description}
+  \item [Statement] 
+    \textit{ A \gls{member} shall be able to open public or private \gls{conference}s.
+            Public \gls{conference}s shall be accessible to every \gls{user} who wants to join.
+    .}
+  \item [Priority] \textit{C}
+\end{description}
+    
+\paragraph{UR041}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be accessible to a high amount of \gls{user}s
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR042}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be protected against attacks
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR043}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be conform with the german rights
+    .}
+  \item [Priority] \textit{A}
+\end{description}
+    
+\paragraph{UR044}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The system shall be conform with the GI-concepts of data storage
+    .}
+  \item [Priority] \textit{B}
+\end{description}

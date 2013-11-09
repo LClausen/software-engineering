@@ -1,0 +1,38 @@
+User Requirement 013:
+	STATEMENT Members shall be able to open and use several plugins simultaneously
+		PRIORITY A
+
+System Requirement 013.1:
+	STATEMENt A guest shall be able to take part in only one conference simultaneously.
+		PRIORITY A
+
+System Requirement 013.2:
+	STATEMENT A member shall be able to take part in a specific number of conferences simultaneously
+		PRIORITY A
+		
+System Requirement 013.3:
+	STATEMENT The specific number of conferences a member can use shall be set by the administrator.
+		PRIORITY A
+
+System Requirement 013.4:
+	STATEMENT If a member has opened more than one conference, there shall always be only one focused.
+			  The member shall be able to set the focus on any conference he is in, the old focus 
+			  is removed and set on the targeted conference.
+		PRIORITY A
+
+System Requirement 013.5:
+	STATEMENT The user shall only be able to interact with the conference which is focused
+		PRIORITY A
+		
+System Requirement 013.6:
+	STATEMENT The focused conference shall be highlighted.
+		PRIORITY A
+
+System Requirement 013.7:
+	STATEMENT A user can only have one voice- and video-conference simultaneously
+		PRIORITY
+
+System Requirement 013.8:
+  STATEMENT If the voice- and video-conference is not in focus 
+			it shall still send the voice- and video data of the user
+	PRIORITY A

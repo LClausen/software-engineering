@@ -1,0 +1,16 @@
+User Requirement 021:
+  STATEMENT In a voice- and video-conference a user shall be able to configure the sound and video quality
+    PRIORITY C
+		
+System Requirement 021.1:
+	STATEMENT A voice- and video-conference shall provide a button, which opens a menu window to modify the quality
+		PRIORITY C
+		
+System Requirement 021.2:
+	STATEMENT Modifying the quality shall be the option to choose sound-quality and volume
+			  Also shall be able to choose the resolution format from the video
+		PRIORITY C
+		
+System Requirement 021.3:                                 -- >Performence requirement
+	STATEMENT The quality option shall not affect other users in any way.
+		PRIORITY D

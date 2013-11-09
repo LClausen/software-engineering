@@ -1,0 +1,45 @@
+User Requirement 001:
+  STATEMENT Users shall be able to register to the system
+    PRIORITY A
+    
+User Requirement 002:
+  STATEMENT Member shall solve a short tutorial right after registration
+    PRIORITY C
+
+User Requirement 003:
+  STATEMENT Members shall have social profiles
+    PRIORITY B
+
+User Requirement 004:
+  STATEMENT A member's profile shall be editable and hideable
+    PRIORITY B
+
+User Requirement 005:
+  STATEMENT Members shall have a contact list
+    PRIORITY B
+
+User Requirement 006:
+  STATEMENT Members shall be able to sort contacts in self-defined groups
+    PRIORITY C
+
+User Requirement 007:
+  STATEMENT Members shall be able to search for other members to visit their profile and add them to their contact list
+    PRIORITY B
+
+User Requirement 008:
+  STATEMENT Members shall be able to block other users.
+            Thus users shall not be able to request a conferences with that member.
+    PRIORITY C
+
+User Requirement 009:
+  STATEMENT Members shall be able to unblock blocked users
+    PRIORITY C
+
+User Requirement 010:
+  STATEMENT Members shall be able to use the plugins offered by the system
+    PRIORITY A
+
+User Requirement 011:
+  STATEMENT The offered plugins shall be at least: voice- and video-, 
+            chat-, whiteboard-conference, document- and screen-sharing
+    PRIORITY A

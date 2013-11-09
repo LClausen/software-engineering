@@ -1,0 +1,19 @@
+User Requirement 020:
+  STATEMENT In a voice- and video-conference a user shall be able to turn on/off his sound-input, -output and video-input
+    PRIORITY B
+		
+System Requirement 020.1:
+	STATEMENT A voice- and video-conference plugin shall provide several buttons
+		PRIORITY B
+		
+System Requirement 020.2:
+	STATEMENT One of those buttons shall provide the function to toggle sound recording.
+		PRIORITY B
+		
+System Requirement 020.3:
+	STATEMENT One of those buttons shall provide the function to toggle video recording.
+		PRIORITY B
+		
+System Requirement 020.4:
+	STATEMENT One of those buttons shall provide the function to toggle sound output from the other participants.
+		PRIORITY B

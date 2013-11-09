@@ -1,0 +1,48 @@
+    
+User Requirement 012:
+  STATEMENT The system shall be extendable with new plugins
+    PRIORITY A
+    
+User Requirement 013:
+  STATEMENT Members shall be able to open and use several plugins simultaneously
+    PRIORITY A
+--------------------------------------------------^Plugins-Members^----------------------------------------------------
+User Requirement 014:
+  STATEMENT The system's interface shall be windows-based
+    PRIORITY A
+-----------------------------------------------------------^plugin^----------------------------------------------------
+User Requirement 015:
+  STATEMENT Members shall be able to minimize and scale the plugin-windows
+    PRIORITY A
+    
+User Requirement 016:
+  STATEMENT Members shall automatically become Moderators of their self-opened conferences
+    PRIORITY A
+ 
+User Requirement 017:
+  STATEMENT Moderators (and sub-moderators) shall be able to invite users to their conference
+    PRIORITY A/B
+	
+User Requirement 018:
+  STATEMENT Moderators shall be able to give moderator rights to other members in his conference.
+            Members with moderator rights, that are not the moderator itself shall be called sub-moderators
+            The moderator shall also be able to remove those rights from sub-moderators
+    PRIORITY B
+
+User Requirement 019:
+  STATEMENT Moderators (and sub-moderators) shall be able to remove other users from the conference.
+            Sub-moderators shall not be able to remove other (sub-)moderators.
+            Only the moderator shall be able to remove sub-moderators.
+    PRIORITY A/B
+------------------------------------------------------^member-plugins-members^-----------------------------------------------
+User Requirement 020:
+  STATEMENT In a voice- and video-conference a user shall be able to turn on/off his soundinput, -output and videoinput
+    PRIORITY B
+    
+User Requirement 021:
+  STATEMENT In a voice- and video-conference a user shall be able to configure the sound and video quality
+    PRIORITY C
+    
+User Requirement 022:
+  STATEMENT In a chat-conference a user shall be able to turn on/off an obscene language filter
+    PRIORITY B

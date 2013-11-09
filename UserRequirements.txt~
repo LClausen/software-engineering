@@ -1,0 +1,186 @@
+User Requirement 001:
+  STATEMENT Users shall be able to register to the system
+    PRIORITY A
+    
+User Requirement 002:
+  STATEMENT Member shall solve a short tutorial right after registration
+    PRIORITY C
+
+User Requirement 003:
+  STATEMENT Members shall have social profiles
+    PRIORITY B
+
+User Requirement 004:
+  STATEMENT A member's profile shall be editable and hideable
+    PRIORITY B
+
+User Requirement 005:
+  STATEMENT Members shall have a contact list
+    PRIORITY B
+
+User Requirement 006:
+  STATEMENT Members shall be able to sort contacts in self-defined groups
+    PRIORITY C
+
+User Requirement 007:
+  STATEMENT Members shall be able to search for other members to visit their profile and add them to their contact list
+    PRIORITY B
+
+User Requirement 008:
+  STATEMENT Members shall be able to block other users.
+            Thus users shall not be able to request a conferences with that member.
+    PRIORITY C
+
+User Requirement 009:
+  STATEMENT Members shall be able to unblock blocked users
+    PRIORITY C
+
+User Requirement 010:
+  STATEMENT Members shall be able to use the plugins offered by the system
+    PRIORITY A
+
+User Requirement 011:
+  STATEMENT The offered plugins shall be at least: voice- and video-, 
+            chat-, whiteboard-conference, document- and screen-sharing
+    PRIORITY A
+    
+User Requirement 012:
+  STATEMENT The system shall be extendable with new plugins
+    PRIORITY A
+    
+User Requirement 013:
+  STATEMENT Members shall be able to open and use several plugins simultaneously
+    PRIORITY A
+    
+User Requirement 014:
+  STATEMENT The system's interface shall be windows-based
+    PRIORITY A
+    
+User Requirement 015:
+  STATEMENT Members shall be able to minimize and scale the plugin-windows
+    PRIORITY A
+    
+User Requirement 016:
+  STATEMENT Members shall automatically become Moderators of their self-opened conferences
+    PRIORITY A
+    
+User Requirement 017:
+  STATEMENT Moderators shall be able to give moderator rights to other members in his conference.
+            Members with moderator rights, that are not the moderator itself shall be called sub-moderators
+            The moderator shall also be able to remove those rights from sub-moderators
+    PRIORITY B
+
+User Requirement 018:
+  STATEMENT Moderators (and sub-moderators) shall be able to invite users to their conference
+    PRIORITY A/B
+
+User Requirement 019:
+  STATEMENT Moderators (and sub-moderators) shall be able to remove other users from the conference.
+            Sub-moderators shall not be able to remove other (sub-)moderators.
+            Only the moderator shall be able to remove sub-moderators.
+    PRIORITY A/B
+    
+User Requirement 020:
+  STATEMENT In a voice- and video-conference a user shall be able to turn on/off his soundinput, -output and videoinput
+    PRIORITY B
+    
+User Requirement 021:
+  STATEMENT In a voice- and video-conference a user shall be able to configure the sound and video quality
+    PRIORITY C
+    
+User Requirement 022:
+  STATEMENT In a chat-conference a user shall be able to turn on/off an obscene language filter 
+    PRIORITY B
+    
+User Requirement 023:
+  STATEMENT In a chat-conference a user shall be able to choose a color and font for the chat messages he sees
+    PRIORITY B 
+    
+User Requirement 024:
+  STATEMENT In a whiteboard-conference a user shall be able to choose different tools and colors to draw/erase
+    PRIORITY A
+    
+User Requirement 025:
+  STATEMENT In a whiteboard-conference the moderator or a sub-moderator shall be able to give/remove drawing rights to the participants
+    PRIORITY B
+    
+User Requirement 026:
+  STATEMENT In a document-sharing-conference the participants shall be able to create and edit a text-based document
+    PRIORITY A
+
+User Requirement 027:
+  STATEMENT In a document-sharing-conference the moderator or a sub-moderator shall be able to give/remove writing rights to the participants
+    PRIORITY B
+    
+User Requirement 028:
+  STATEMENT In a document-sharing-conference, the participants, if they have writing-rights, 
+            shall be able to highlight text-parts with a individually chosen color
+    PRIORITY B
+    
+User Requirement 029:
+  STATEMENT In a document-sharing-conference, the participants, if they have writing-rights, 
+            shall be able to comment their highlighted text-parts
+    PRIORITY B
+    
+User Requirement 030:
+  STATEMENT In a screen-sharing-conference the moderator shall be able to show his actual screen
+    PRIORITY A
+    
+User Requirement 031:
+  STATEMENT (Sub-)Moderators shall be able to share their conferences to other conference's participants.
+    PRIORITY A
+    
+User Requirement 032:
+  STATEMENT The conferences shall be recordable(video,voice,whiteboard) or savable(chat-log,text-document,whiteboard)
+    PRIORITY A
+    
+User Requirement 033:
+  STATEMENT Moderators (excluding sub-moderators) shall be able to combine their conferences to another conference.
+            These combined conference will be handled like only one conference.
+    PRIORITY C
+
+User Requirement 034:
+  STATEMENT No data shall be stored on local devices
+    PRIORITY A
+    
+User Requirement 035:
+  STATEMENT The system shall be as efficient as possible
+    PRIORITY A
+
+User Requirement 036:
+  STATEMENT The system shall be hosted on a dedicated server
+    PRIORITY A
+    
+User Requirement 037:
+  STATEMENT The system shall be accessable as a website via browser
+    PRIORITY A
+    
+User Requirement 038:
+  STATEMENT The system shall be easy to use
+    PRIORITY A
+
+User Requirement 039:
+  STATEMENT The system shall also allow unregistered users to take part in conferences as guests,
+            if they were invited by a (sub-)moderator.
+    PRIORITY A
+
+User Requirement 040:
+  STATEMENT A member shall be able to open public or private conferences.
+            Public conferences shall be accessible to every user who wants to join.
+    PRIORITY C
+    
+User Requirement 041:
+  STATEMENT The system shall be accessible to a high amount of users
+    PRIORITY A
+    
+User Requirement 042:
+  STATEMENT The system shall be protected against attacks
+    PRIORITY A
+    
+User Requirement 043:
+  STATEMENT The system shall be conform with the german rights
+    PRIORITY A
+    
+User Requirement 044:
+  STATEMENT The system shall be conform with the GI-concepts of data storage
+    PRIORITY B

@@ -1,0 +1,38 @@
+User Requirement 015:
+	STATEMENT Members shall be able to minimize and scale the plugin-windows
+		PRIORITY A
+		
+System Requirement 015.1:
+	STATEMENT Every window frame shall provide buttons to close,minimize and maximize itself
+		PRIORITY A
+		
+System Requirement 015.2:
+	STATEMENT There shall be a small bar (tab bar) at the bottom of the GUI.
+		PRIORITY A
+		
+System Requirement 015.3:
+	STATEMENT The minimized conferences shall be shown as tabs in the tab bar.
+			  The tab shall contain conference name and only 2 buttons (close,enlarge).
+			  The size of the tab shall be equal to the length of the conference-name + length of the buttons.
+		PRIORITY A
+		
+System Requirement 015.4:
+	STATEMENT There shall be added arrows (left,right) to scroll trough the tab bar if needed.
+		PRIORITY A
+		
+System Requirement 015.5:
+	STATEMENT When minimized, the conference's content update shall stop until the window is enlarged again
+		PRIORITY A
+		
+System Requirement 015.6:
+	STATEMENT When the window frame is enlarged, the size and position of the window shall be the same as before the window has been minimized.
+		PRIORITY A
+		
+System Requirement 015.7:
+	STATEMENT There shall be a small button-like area on the bottom right-hand corner of each window frame.
+			  This shall be used to scale the window frame by drag and drop.
+		PRIORITY A
+
+System Requirement 015.8:
+	STATEMENT If a window is closed, only the member himself leaves this conference
+		PRIORITY A
