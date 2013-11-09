@@ -1,0 +1,15 @@
+\paragraph{SR008}
+  \begin{description}
+  \item [Statement] 
+    \textit{ As to avoid potential abuse, chat messages shall have a reasonable maximum length.}
+  \item [Priority] \textit{A}
+\end{description}
+
+  STATMENT documents used in document sharing shall not exceed a certain size limit
+  PRIORIY A
+
+  STATEMEMT Functions like recording,mute,sub-moderation rights and invitation will be transfered to a merged confernce
+  PRIORITY B
+
+  STATEMENT To merge two conferences, the moderator of both conferences shall be able to link them.
+  PRIORITY B

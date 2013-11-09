@@ -1,0 +1,8 @@
+\paragraph{SR002}
+  \begin{description}
+  \item [Statement] 
+    \textit{ All \gls{member}s shall get a warning email for every going-to-be-deleted situation they are concerned to.
+			The \gls{administrator} shall be able to set the interval to the deletion date, when the system will send the warning email.}
+  \item [Default] \textit{5 days}
+  \item [Priority] \textit{A}
+\end{description}

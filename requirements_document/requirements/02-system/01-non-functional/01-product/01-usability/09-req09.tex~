@@ -1,0 +1,7 @@
+\paragraph{UR009}
+  \begin{description}
+  \item [Statement] 
+    \textit{ A public \gls{conference} shall have a title and (optional) a description.
+			Those shall be set by the publisher/the \gls{moderator}.}
+  \item [Priority] \textit{C}
+\end{description}

@@ -89,3 +89,12 @@
 \glossaryentry{conference?\glossaryentryfield{conference}{\glsnamefont{conference}}{A conference is an instantiation of at least one plugin}{\relax }|setentrycounter[]{page}\glsnumberformat}{16}
 \glossaryentry{user?\glossaryentryfield{user}{\glsnamefont{user}}{A user is a person who uses the system}{\relax }|setentrycounter[]{page}\glsnumberformat}{16}
 \glossaryentry{user?\glossaryentryfield{user}{\glsnamefont{user}}{A user is a person who uses the system}{\relax }|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{conference?\glossaryentryfield{conference}{\glsnamefont{conference}}{A conference is an instantiation of at least one plugin}{\relax }|setentrycounter[]{page}\glsnumberformat}{27}
+\glossaryentry{conference?\glossaryentryfield{conference}{\glsnamefont{conference}}{A conference is an instantiation of at least one plugin}{\relax }|setentrycounter[]{page}\glsnumberformat}{27}
+\glossaryentry{guest?\glossaryentryfield{guest}{\glsnamefont{guest}}{A user who is not a member}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{guest?\glossaryentryfield{guest}{\glsnamefont{guest}}{A user who is not a member}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{guest?\glossaryentryfield{guest}{\glsnamefont{guest}}{A user who is not a member}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{member?\glossaryentryfield{member}{\glsnamefont{member}}{A member is a user that is registered to the system}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{member?\glossaryentryfield{member}{\glsnamefont{member}}{A member is a user that is registered to the system}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{moderator?\glossaryentryfield{moderator}{\glsnamefont{moderator}}{A moderator is a member with rights to share,close and invite new persons to an existing conference}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{conference?\glossaryentryfield{conference}{\glsnamefont{conference}}{A conference is an instantiation of at least one plugin}{\relax }|setentrycounter[]{page}\glsnumberformat}{28}

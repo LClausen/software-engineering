@@ -1,0 +1,6 @@
+\paragraph{DR002}
+  \begin{description}
+  \item [Statement] 
+    \textit{ To prevent crashes the system shall at least reach 90% in testing.}
+  \item [Priority] \textit{A}
+\end{description}

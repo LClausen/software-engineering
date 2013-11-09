@@ -9,6 +9,5 @@ SR001
   STATEMEMT Functions like recording,mute,sub-moderation rights and invitation will be transfered to a merged confernce
   PRIORITY B
 
-  STATEMENT When merging conferences, The moderators of both conferencs shall agree on the merging.
-  PRIORITY A
- 
+  STATEMENT To merge two conferences, the moderator of both conferences shall be able to link them.
+  PRIORITY B

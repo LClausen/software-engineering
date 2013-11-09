@@ -1,0 +1,6 @@
+\paragraph{PR003}
+  \begin{description}
+  \item [Statement] 
+    \textit{ \gls{Guest} accounts shall be deleted after leaving the \gls{conference}.}
+  \item [Priority] \textit{A}
+\end{description}

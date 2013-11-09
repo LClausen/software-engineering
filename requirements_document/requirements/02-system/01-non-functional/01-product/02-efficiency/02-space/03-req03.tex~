@@ -1,0 +1,7 @@
+\paragraph{SR003}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The \gls{administrator} shall be able to set a maximum time for unused accounts to be kept on the system.}
+  \item [Default] \textit{6 months}
+  \item [Priority] \textit{A}
+\end{description}

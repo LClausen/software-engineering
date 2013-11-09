@@ -1,0 +1,6 @@
+\paragraph{UR005}
+  \begin{description}
+  \item [Statement] 
+    \textit{ Guest accounts shall not have the ability to open new \gls{conference}s.}
+  \item [Priority] \textit{A}
+\end{description}

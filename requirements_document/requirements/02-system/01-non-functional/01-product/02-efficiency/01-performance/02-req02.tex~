@@ -1,0 +1,7 @@
+\paragraph{PR002}
+  \begin{description}
+  \item [Statement] 
+    \textit{ The \gls{administrator} shall be able to set a maximum count of simultaneous conferences per member to limit the server workload.}
+  \item [Default] \textit{5 simultaneous conferences}
+  \item [Priority] \textit{A}
+\end{description}

@@ -1,0 +1,57 @@
+\section{Scenario for a voice-and-video-call directly between two members}
+\begin{description}
+ \item [INITIAL ASSUMPTION:]
+  \textit{Member1 wants to start a voice-and-video-call to Member2 on his contact-list.}
+
+ \item [NORMAL:]
+  \textit{He sends a request to the other user. The other User accepts the request. The System builds a P2P
+  connection between those Users. Data is exchanged via that connection. A video-chat-window and tab opens 
+  on both Members platforms.}
+
+
+ \item [WHAT CAN GO WRONG:]
+
+  \textit{The request is not sent or not received.Give feedback to Member1.\newline
+  The Member1 is blocked by Member2.Give feedback to Member1 (Member2 blocked you) \newline
+  The connection collapses.Give feedback to Member1 and Member2 (connection timeout)}
+
+ \item [OTHER ACTIVITIES:]
+  \textit{There may not be more than one video-call to a single Member at the same time.}
+
+ \item [SYSTEM STATE ON COMPLETION:]
+  \textit{The data-stream is stopped. The video-chat-windows and tabs close on both Members platforms. The connection is cut (cancelled).}
+\end{description}
+
+\section{Scenario for starting a conference with video, audio and whiteboard functionalities}
+\begin{description}
+ \item [INITIAL ASSUMPTION:]
+  \textit{a member wants to start a conference with video, chat and whiteboard functionality. This member has the right to start a conference}
+
+ \item [NORMAL:]
+  \textit{the member starts a conference with the plugins he wants.\newline
+He invites other people to this conference by sending them a link to the conference directly through
+the system (if they're members), or through email (if not members).\newline
+Each user, once he joins, will be able to see other people's chat messages and videos, and can hear their audio. He can also draw on the whiteboard.\newline
+Users will see a video tab for the videos of other users, and a whiteboard tab where they can draw together.\newline
+Each user can choose if he wants to share his video and audio or not.}
+
+
+ \item [WHAT CAN GO WRONG:]
+
+  \textit{A user is abusing one or more plugin
+  the moderator or a sub-moderator can kick the user from the conference, or block the user from accessing the plugin(s) he's abusing.\newline
+  the user doesn't have a camera, or a microphone, or both.Video and audio sharing will be disabled for that user, he'll still be able to see the others though. \newline
+  A user's internet speed is too low for video streaming. The user will be given the option to disbale video streaming, or lower the quality. \newline
+  A user is blocked by another. The other user will not see this user's chat messages and video, nor hear his audio.\newline
+  The connection collapses
+  Give feedback to all users (connection timeout)\newline
+  The moderator leaves the conference. The system assigns a sub-moderator as the current moderator, if at least one sub-moderator exists. If not, then some other member will be randomly assigned as moderator.\newline
+  The server is overloaded. Show a message to the users, that they should expect issues because of overload.\newline}
+
+ \item [OTHER ACTIVITIES:]
+  \textit{Each user can take part in other conferences, but will have his audio and video disabled.}
+
+ \item [SYSTEM STATE ON COMPLETION:]
+  \textit{The conference is stopped. All the tabs close on all users' platforms. The connection is cut (cancelled).}
+\end{description}
+

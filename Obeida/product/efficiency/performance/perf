@@ -1,8 +1,0 @@
-STATEMENT the changes done by any user on the shared document in a document sharing session shall be directly visible for all other users
-PRIORITY B
-
-STATEMENT in a screensharing session. Each user can set the quality of the video he receives.
-PRIORITY A
-
-STATEMENT in case of a server overload. The users shall be notified of possible slowdowns.
-PRIORITY A
