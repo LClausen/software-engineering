@@ -1,5 +1,6 @@
-STATEMENT certain character sequences shall be reserved for emoticons support. Those character sequences shall then be added to the chat message by choosing them from a menu
-PRIORITY C
+STATEMENT Certain character sequences shall be reserved for emoticons support. Those character sequences shall then be
+          added to the chat message by choosing them from a menu
+PRIORITY D
 
-STATEMENT the user shall be notified of new messages by a sound notification
-PRIORITY C
+STATEMENT The user shall be notified of new messages by a sound notification
+PRIORITY D
