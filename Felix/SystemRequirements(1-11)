@@ -3,7 +3,7 @@ User Requirement 001:
     PRIORITY A
       
   System Requirement 001:
-    STATEMENT User register by choosing a unique username and a password. These are stored in a database on the server.
+    STATEMENT Users register by choosing a unique username and a password. These are stored in a database on the server.
       PRIORITY A
       
   System Requirement 001:
@@ -41,7 +41,7 @@ User Requirement 004:
       PRIORITY B
   
   System Requirement 001:
-    STATEMENT A member shall be able to hie his profile from certain other users.
+    STATEMENT A member shall be able to hide his profile from certain other users.
       PRIORITY B
     
   System Requirement 001:
@@ -139,3 +139,7 @@ User Requirement 011:
   STATEMENT The offered plugins shall be at least: voice- and video-,
             chat-, whiteboard-conference, document- and screen-sharing
     PRIORITY A
+    
+    -p2p/connections
+    -functions
+    -
