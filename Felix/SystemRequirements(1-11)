@@ -108,16 +108,32 @@ User Requirement 008:
     PRIORITY C
       
   System Requirement 001:
-      STATEMENT 
-        PRIORITY B
+      STATEMENT Blocked Members are stored similar to contacts.
+        PRIORITY C
+        
+  System Requirement 001:
+    STATEMENT A Member blocked by another cannot send him a conference request ?
+      PRIORITY C
 
 User Requirement 009:
   STATEMENT Members shall be able to unblock blocked users
     PRIORITY C
+      
+  System Requirement 001:
+      STATEMENT A Member can also remove contacts from his blocked-list.
+        PRIORITY C
 
 User Requirement 010:
   STATEMENT Members shall be able to use the plugins offered by the system
     PRIORITY A
+      
+  System Requirement 001:
+      STATEMENT Members have a different Interface as guest.
+        PRIORITY A
+        
+  System Requirement 001:
+    STATEMENT Members are allowed to open any kind of conference.
+      PRIORITY A
 
 User Requirement 011:
   STATEMENT The offered plugins shall be at least: voice- and video-,
