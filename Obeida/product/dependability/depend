@@ -6,17 +6,6 @@ PRIORITY A
 STATEMENT a moderator shall be able to clear the whiteboard
 PRIORIY A
 
-STATMENET in  document sharing, each user can save his own version (snapshot) of the document being worked on.
+STATEMENT in  document sharing, each user shall be able to save his own version (snapshot) of the document working on.
+          This snapshot shall appear in the records section.
 PRIORITY A
-
-STATEMENT All records, saved on the server, shall be accessable by the participating members.
-PRIORITY A
-
-STATEMENT All records, saved on the server, shall be downloadable.
-PRIORITY A
-
-STATEMENT in document sharing, only one user can edit the document at one time. The moderator or a sub-moderator can switch the write access between users
-PRIORITY B
-
-STATEMENT to avoid conflicts, the document will be locked to only one user while editting.
-PRIORITY B
