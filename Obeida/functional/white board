@@ -1,6 +1,5 @@
 STATEMENT users shall be able to use all RGB colors on the whiteboard
-PIORITY A
+PIORITY B
 
-STATEMENT the drawing tools the whiteboard supports are: pencil, eraser, brush, straight line, text box, rectangle and circle
-
+STATEMENT The whiteboard shall provide at least the following tools: pencil, eraser, brush, straight line, text box, rectangle and circle
 PRIORITY B
